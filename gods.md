@@ -4,7 +4,7 @@ The god of rebirth. Dies just at the start. Connected to Nimrod's PC.
 Gets old, dies, and is reborn. Was sent to Avernus by `plot element` when
 dying to hopefully stop him from being reborn.
 
-Symbol: hourglass with an infant and a skull is the dias
+Symbol: hourglass with an infant and a skull in the dais
 
 Current form: Dying old elf
 
@@ -27,7 +27,7 @@ by pests, livestock hunted.
 The lawful neutral god of dying light. About the gentle end of things, the light
 of the setting sun.
 
-Symbol: a setting blue sun.
+Symbol: A crescent turned on its side to look like the setting sun.
 
 ## Sraqtat
 
@@ -43,3 +43,16 @@ Appearance: A normal sized golden spider.
 The Chaotic neutral god of Dice. 
 
 Symbol: A D20.
+
+## Naru
+
+The God of Blinding Light. The very icon of righteousness. He is the light
+that burns away the darkness. He is trying to kill all other gods for their
+crimes against the world. He believes that so long as the gods are left alive,
+they will cause the world to suffer. 
+
+"The Light that Blinds Justice"
+
+Alignment: Lawful Good
+Theme: https://youtu.be/qXVmZuPOzU0
+Symbol: Swords arranged in a circle to form a sun.

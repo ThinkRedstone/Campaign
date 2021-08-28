@@ -21,3 +21,5 @@ has infiltrated Nelghas, in exchange for favour.
 
 This is where a religion / history check might arouse suspicion. 
 
+Either they research him, or they kill the Zebub before he fights with Gan 
+Distantshine.

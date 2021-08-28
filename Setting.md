@@ -26,7 +26,7 @@ It might be cool to have each domain end in some sort of psychological
 challenge.
 
 ## City of Nelghas
-A big city, surrounded by walls. It is one the few bastions of sanity in
+A big city, surrounded by walls, on the edge of a cliff. It is one the few bastions of sanity in
 Avernus, on the outskirts of the level- as far from the pass as you reasonably
 get. It houses mostly damned souls, looking for solace in their last days.
 
@@ -44,4 +44,7 @@ Considered a very capable leader, he leads Nelghas through the chaos in Avernus.
 Can be connected to Asaf's PC. Maybe he recognizes him?
 
 Punishing him curries favour with Obelisk.
+
+A follower of Naru, he massacred the church in the name of justice- To delay
+Obelisk and prevent him from `something`.
 
