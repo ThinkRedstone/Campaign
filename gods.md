@@ -11,8 +11,10 @@ Current form: Dying old elf
 ## Abbadon
 
 The god of Hope and Redemption. A fallen archangel risen again.
-
-Symbol: three horns and an halo.
+Used to be Gaedon, the god of Mercy. 
+Fallen and turned into the god of cruelty,
+risen again as the god of Hope and Redemption.
+Symbol: three horns and a halo.
 
 Appearance : a tall figure, with three blood red horns, black feathered wings, and a glowing halo.
 
