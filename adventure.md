@@ -23,3 +23,15 @@ This is where a religion / history check might arouse suspicion.
 
 Either they research him, or they kill the Zebub before he fights with Gan 
 Distantshine.
+
+### Scene 3: Peyton the Jester at the Laughing Snake
+The oldest person in town is the dwarf Peyton the Jester,
+which runs the only apothecary.
+
+He was a bandit that unfortunately robbed a
+convoy headed by high ranking priest, 
+and his whole gang got here. 
+He remembers that when Gal arrived,
+he was sprayed in blood, and carried a 
+large emblem depicting a setting golden sun 
+(symbol of obelisk), also bloodied.
