@@ -1,7 +1,7 @@
 ## Aton-ka
 
 The god of rebirth. Dies just at the start. Connected to Nimrod's PC.
-Gets old, dies, and is reborn. Was sent to Avernus by `plot element` when
+Gets old, dies, and is reborn. Was sent to Avernus by Naru when
 dying to hopefully stop him from being reborn.
 
 Symbol: hourglass with an infant and a skull in the dais
