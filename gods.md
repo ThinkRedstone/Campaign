@@ -24,6 +24,8 @@ The chaotic evil god of nature. All about nature defeating man and overthrowing
 civilization. Cities will be overgrown, ships lost in storms, fields ravaged
 by pests, livestock hunted.
 
+True Blade: Two Handed Orcish Waraxe nicknamed Berth.
+
 ## Obelisk
 
 The lawful neutral god of dying light. About the gentle end of things, the light
@@ -45,6 +47,15 @@ Appearance: A normal sized golden spider.
 The Chaotic neutral god of Dice. 
 
 Symbol: A D20.
+
+## Isoi
+`myabe reconsider`
+
+The goddess coin, and those who get it. Patron
+of the merchant who rob you by day, and the 
+thieves who steal from you by night.
+
+Symbol: A coin with the imprint of a smiling maiden.
 
 ## Naru
 
