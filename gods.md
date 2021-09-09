@@ -51,11 +51,14 @@ Symbol: A D20.
 ## Isoi
 `myabe reconsider`
 
-The goddess coin, and those who get it. Patron
+The goddess of coin, and those who get it. Patron
 of the merchant who rob you by day, and the 
 thieves who steal from you by night.
 
 Symbol: A coin with the imprint of a smiling maiden.
+
+True Blade: Probably a dagger, since both sides
+of her patrons will stab you in the back
 
 ## Naru
 
