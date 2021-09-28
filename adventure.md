@@ -41,6 +41,26 @@ Ulla feels his holy symbol grow hot. When praying for guidance with it, he
 would get the following message: "The Demonic Domains house no innocents. The light might appear
 righteous, but it is blinding."
 
+### Scene 4: The search for the Demon
+The dead barman is *Broldon Moltenflower*. He died shortly before the party
+arrived. He was found in the building he called home by Aya, which is his
+sister. His body was taken, and Gan should know where it is. There is a two-tier
+system here, where a very high medicine check should reveal that he died from a
+sword wound in the back, and then someone made it appear like he was ravaged by
+claws. A lower roll will only tell them about the claw marks.
+
+Aya never saw the claw marks, since Gan added them after he got custody of the
+body. She also knows he was a devoted follower of Obelisk- a priest magician.
+When pressed, she might remember that he behaved weirdly before he was killed-
+he was greatly disturbed by something.
+
+Inside Broldon's house, you can use detect magic to find the remnants of some
+magic has been cast. A letter under a loose tile reads: "You know how dangerous
+he is. You know what he has done. We implore you, use your talents and rid the
+world of his presence. All things must end, and his time has passed." It is
+signed with the symbol of Obelisk. There are also some commponents that a
+religion check will verify are part of a summoning ritual.
+
 ## Chapter 2: The Struggle for Bertha
 
 ### Scene xxx: Naru apologizing for Gan's behaviour

@@ -53,10 +53,17 @@ Obelisk and prevent him from `something related to the True Blade of Obelisk`.
 ### The Broken Window
 Located to the right of the main street which extends outside the gatehouse.
 
-The only tavern at Nelgahs. Owned by hot-headed Lewis. 
-Current barmaid is Aya Korem, a meter sixty and then some, green eyes and
-almost-black hair. She is unsettled by how the previous barman lost his life,
-but she is desperate for the job.
+The only tavern at Nelgahs. Owned by hot-headed *Lewis*. 
 
-Previous barman is Broldon Moltenflower, which died in an uncertain way, Gan 
-claiming the hands of a Demon which infiltrated Nelgahs.
+Current barmaid is *Aya Korem*, a meter sixty and then some, green eyes and
+almost-black hair. She is unsettled by how the previous barman lost his life,
+but she is desperate for the job- Broldon was like a brother to her, and without
+him she has no one to turn to. Lewis offred her the job because he thought it
+might help her cope with the loss.
+
+Previous barman is *Broldon Moltenflower*, a Dwarf, which died in an uncertain way, Gan 
+claiming the hands of a Demon which infiltrated Nelgahs. He considers himself
+a Brother to Aya, and she considers him the same, even though they are not
+related by blood. He was a bandit, and took Aya in after her parents died
+in a raid (they were both also bandits with his party). He and Aya were thrown 
+to Avernus because they (and their party) `did something to offend Aton-Ka`.
