@@ -24,12 +24,14 @@ The chaotic evil god of nature. All about nature defeating man and overthrowing
 civilization. Cities will be overgrown, ships lost in storms, fields ravaged
 by pests, livestock hunted.
 
-True Blade: Two Handed Orcish Waraxe nicknamed Berth.
+True Blade: Two Handed Orcish Waraxe nicknamed Bertha.
 
 ## Obelisk
 
 The lawful neutral god of dying light. About the gentle end of things, the light
 of the setting sun.
+Maybe: He is a "little brother" figure to Naru, which views him in a gentler
+light compared to the other gods.
 
 Symbol: A crescent turned on its side to look like the setting sun.
 
