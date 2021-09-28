@@ -35,3 +35,12 @@ He remembers that when Gal arrived,
 he was sprayed in blood, and carried a 
 large emblem depicting a setting golden sun 
 (symbol of obelisk), also bloodied.
+
+
+## Chapter 2: The Struggle for Bertha
+
+### Scene xxx: Naru apologizing for Gan's behaviour
+
+Naru is sitting on a rock at the side of the road, with Bertha across his lap, and his
+halo of weapons at the smallest he considers sufficient- ten swords, all resting
+on the rock around him. He apologizes for Gan's behaviour.
