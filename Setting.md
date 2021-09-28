@@ -31,6 +31,8 @@ Avernus, on the outskirts of the level- as far from the pass as you reasonably
 get. It houses mostly damned souls, looking for solace in their last days.
 
 The city is sparsely populated in comparison to its size.
+The walls are much thicker than is usual, and surround the city from all
+directions- including the sheer cliff at the very edge.
 
 ### Leader: Gan Distantshine
 Elf, damned to Avernus because he massacred the most of the Church of Obelisk,
@@ -39,12 +41,22 @@ Plane, which is a very rare occasion since he generally doesn't intervene, much
 less so punish. 
 For the most part, no one knows this. 
 
-Considered a very capable leader, he leads Nelghas through the chaos in Avernus.
+Considered a very capable leader, he leads Nelgahs through the chaos in Avernus.
 
 Can be connected to Asaf's PC. Maybe he recognizes him?
 
 Punishing him curries favour with Obelisk.
 
 A follower of Naru, he massacred the church in the name of justice- To delay
-Obelisk and prevent him from `something`.
+Obelisk and prevent him from `something related to the True Blade of Obelisk`.
 
+### The Broken Window
+Located to the right of the main street which extends outside the gatehouse.
+
+The only tavern at Nelgahs. Owned by hot-headed Lewis. 
+Current barmaid is Aya Korem, a meter sixty and then some, green eyes and
+almost-black hair. She is unsettled by how the previous barman lost his life,
+but she is desperate for the job.
+
+Previous barman is Broldon Moltenflower, which died in an uncertain way, Gan 
+claiming the hands of a Demon which infiltrated Nelgahs.
