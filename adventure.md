@@ -36,6 +36,10 @@ he was sprayed in blood, and carried a
 large emblem depicting a setting golden sun 
 (symbol of obelisk), also bloodied.
 
+### Side note: A message from Aton-Ka
+Ulla feels his holy symbol grow hot. When praying for guidance with it, he 
+would get the following message: "The Demonic Domains house no innocents. The light might appear
+righteous, but it is blinding."
 
 ## Chapter 2: The Struggle for Bertha
 
