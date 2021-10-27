@@ -58,8 +58,43 @@ Inside Broldon's house, you can use detect magic to find the remnants of some
 magic has been cast. A letter under a loose tile reads: "You know how dangerous
 he is. You know what he has done. We implore you, use your talents and rid the
 world of his presence. All things must end, and his time has passed." It is
-signed with the symbol of Obelisk. There are also some commponents that a
+signed with the symbol of Obelisk. There are also some components that a
 religion check will verify are part of a summoning ritual.
+
+### Scene 5: Stanford is Killed
+Stanford, the half-elf guard which is good with the crossbow, is killed by the
+demon while guarding Gan's house.
+
+When the party arrives, Gan is with Jarod, Peyton, and 5 guards, outside his
+house. He does not look worried, or sad- this is all a ploy to keep the party
+here for long enough for Gan to assemble the manpower to steal Bertha.
+Jarod is worried- having one of his subordinates die inside the walls is new.
+
+Stanford is found dead on the roof of Gan's house, with large bite marks on his arms
+and shoulders. His crossbow lays discarded and uncocked, his sword half-out its
+scabbard. He is surrounded by his own blood, but little drops of black blood can
+be found near him, forming a trail going over the side of the building.
+
+Following the trail leads to a seemingly empty building, where the Zebub is
+hiding and invisible. It will use message to ask if the killer (meaning Gan)
+sent the party. Answering with Gan's name or "yes" will cause it to attack the party.
+
+The Zebub knows that Gan killed Broldon, and that it is tasked with killing Gan,
+and "his constrictors".
+
+### Scene 6: Bertha is Taken
+
+Everyone returns to Gan's house, which has a large Scale as a centerpiece. 
+He thanks the party, and shares information: Avernus can be existed only through
+the middle. 
+He then turns his back on the party and ties on a blindfold. He tells the party
+that he personally wishes them well, but justice must be blind. He simultaneously lifts
+the shield, and removes its cover to reveal Naru's Halo of Blades. 
+
+On his queue, x guards storm out of the doors shouting "In the name of Blind
+Justice". He would try to get to Grust, at which point he would grapple with
+him and when touching Bertha disappear in a flash of light.
+
 
 ## Chapter 2: The Struggle for Bertha
 
