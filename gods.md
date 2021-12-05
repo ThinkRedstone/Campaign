@@ -51,8 +51,6 @@ The Chaotic neutral god of Dice.
 Symbol: A D20.
 
 ## Isoi
-`myabe reconsider`
-
 The goddess of coin, and those who worship it. Patron
 of the merchants who rob you by day, and the 
 thieves who steal from you by night.
