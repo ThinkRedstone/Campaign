@@ -34,6 +34,13 @@ The city is sparsely populated in comparison to its size.
 The walls are much thicker than is usual, and surround the city from all
 directions- including the sheer cliff at the very edge.
 
+Below the cliff, there are rolling hills. Grain and a little livestock is
+cultivated at the base of the cliff, under guard. There is a passage there
+from near the city, outside the walls.
+
+The most common threat is that of demons and devils, mostly mindless variants,
+which stalk the region as a whole.
+
 ### Leader: Gan Distantshine
 Elf, damned to Avernus because he massacred the most of the Church of Obelisk,
 about `long time` ago. This led to Obelisk personally arriving in the Normal
