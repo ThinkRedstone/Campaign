@@ -8,6 +8,8 @@ Symbol: hourglass with an infant and a skull in the dais
 
 Current form: Dying old elf
 
+True Blade: An unornate hatchet.
+
 ## Abbadon
 
 The god of Hope and Redemption. A fallen archangel risen again.
