@@ -98,8 +98,11 @@ him and when touching Bertha disappear in a flash of light.
 
 ## Chapter 2: The Struggle for Bertha
 
-### Scene xxx: Naru apologizing for Gan's behaviour
+### Scene xxx: Naru killing Aton-ka
 
-Naru is sitting on a rock at the side of the road, with Bertha across his lap, and his
-halo of weapons at the smallest he considers sufficient- ten swords, all resting
-on the rock around him. He apologizes for Gan's behaviour.
+Naru is sitting on a rock at the side of the road, with Aton-ka's True Blade across his lap,
+and his halo of weapons all thrown on the ground around him. The shadows of all players point
+away from him. Play "A Call to Arms" here. He apologizes for Gan's behaviour,
+saying that "Some of my followers are too zealous, and sometimes forget that
+although our mission justifies the means, we should always use only the justest
+means required".
