@@ -57,8 +57,9 @@ thieves who steal from you by night.
 
 Symbol: A coin with the imprint of a smiling maiden.
 
-True Blade: Probably a dagger, since both sides
-of her patrons will stab you in the back
+True Blade: A dagger with a silver blade and a golden handle, with a golden
+coin imprinted on the base of the blade. Currently in possession of Naru, after
+Th'el and his gang stole it from Isoi's church and sold it. 
 
 ## Naru
 
