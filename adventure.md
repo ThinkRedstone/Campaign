@@ -98,7 +98,12 @@ him and when touching Bertha disappear in a flash of light.
 
 ## Chapter 2: The Struggle for Bertha
 
-### Scene xxx: Naru killing Aton-ka
+### Scene x-1: The shadows are afraid
+
+When travelling the great expanse of grass on the plains center-ward from Nelghas, the shadows slowly
+gather more and more delay when moving in a specific direction.
+
+### Scene x: Naru killing Aton-ka
 
 Naru is sitting on a rock at the side of the road, with Aton-ka's True Blade across his lap,
 and his halo of weapons all thrown on the ground around him. The shadows of all players point
@@ -106,3 +111,12 @@ away from him. Play "A Call to Arms" here. He apologizes for Gan's behaviour,
 saying that "Some of my followers are too zealous, and sometimes forget that
 although our mission justifies the means, we should always use only the justest
 means required".
+
+He stands up and all of his weapons rise from the ground into the air into the
+Halo of Blades.
+Behind him, 10 greatswords fall from the sky into the ground. In flashes of light,
+figures in white robes or armour appear, with the Halo of Blades on their chest.
+One of them should wear Isoi's dagger.
+
+Naru: "I am sure you are confused. I am Naru, the Blinding Light.
+I've come to exact Retribution in the name of Justice."
