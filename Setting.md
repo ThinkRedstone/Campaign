@@ -74,3 +74,86 @@ a Brother to Aya, and she considers him the same, even though they are not
 related by blood. He was a bandit, and took Aya in after her parents died
 in a raid (they were both also bandits with his party). He and Aya were thrown 
 to Avernus because they (and their party) `did something to offend Aton-Ka`.
+
+
+# The Order of Blades
+
+## Ranks
+The ranks of members in the order are named after different types of straight
+blades:
+- Dagger
+- Sword
+- Longsword
+- Rapier
+- Greatsword
+
+The ranks were created because Outrok created magical greatswords, in fashion of Naru's
+True Blade, for all the important members Naru recruited to the order;
+to allow them to more easily travel and communicate. Because they all carried
+greatswords, they came to be known as Greatswords, and then lesser members
+started calling themselves after shorter swords- "I'm no Greatsword, I'm barely a dagger"-
+until the current hierarchy was established.
+
+## Nelghas
+- Longsword Gan Distantshine
+- 2 unnamed dead daggers
+- 1 surviving dagger
+
+
+## Greatswords
+
+### Outrok the Lich
+
+Appearance: A floating figure with light blue skin, wearing a white flowing
+robe.
+Theme: [Wrath of the Lich King Title Screen](https://youtu.be/_1XKOJN_Rp8)
+
+The logistical planner for the Order of Blades. He turned into a lich long ago
+to have the power to exact revenge on a king who has wronged him. After the deed
+was done, he kept on living, dissatisfied with how the world kept on being
+unjust. He was later recruited by Naru, when he first began his current campaign,
+and operates out of his lair the logistics of the Order. He personally created 
+the physical Greatswords for all the Greatsword members. 
+
+Another option is that he made Naru's True Blade his Phylactery 
+
+### Urian the Blademaster
+
+Appearance: Usually in full plate, an old human with white hair and scarred
+face.
+Theme: [Legends of Azeroth Remix](https://youtu.be/8ZgH8onTMWY)
+
+A senior blademaster for an `important ciy lord, maybe church`, he fought in the name of
+his city for a dozen years. After am horrific battle, in which his city lord and
+most of his comrades have died, he gave up. "What's the point to this useless
+squabble? How is this justice?". Naru then revealed himself to Urian, and
+promised him to let him fight for real justice.
+
+He is one of the older Greatswords in terms of percentage of his natural
+lifespan, and curries great influence with Naru- Naru thinks he is the
+Greatsword that best understands what true justice is.
+
+
+### Malen the Champion
+
+Appearance: Full plate, young human with black hair and blue eyes.
+Theme: [Stormwind](https://youtu.be/DUA1B3A1ZnY)
+
+The youngest Greatsword, he was born to members of the order, and dedicated
+himself from birth to Justice and the Great Campaign. A charismatic young
+figure full of passion. Usually less sheltered then most people think.
+
+### Grotrur the Dwarven King
+
+Appearance: Chainmail, dwarf with red hair and an impressive beard.
+Theme: [Ironforge](https://youtu.be/GnuryDgYUZs)
+
+The king of a `dwarven city`, he was taught that a King's duty is to his people
+and he should protect them, for any cost. That same teacher later usurped him,
+and Grotrur barely escaped with his life. He prayed for justice and protection
+for his people, and Naru answered.
+
+Very protective of members in the Order, he sees it as a personal failure every
+time a member dies. His city openly supports the order, and through it a lot
+of the equipment and financing of the Order occurs.
+
