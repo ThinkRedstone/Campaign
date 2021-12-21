@@ -184,3 +184,19 @@ believes that the unjust should be hunted and killed, no matter how small the
 injustice. Naru disapproves of this bloodthirst, but insists that Aire's talents
 are necessary for the Campaign.
 
+### Sabathiel the Angel
+
+Appearance: The tallest Greatsword, Sabathiel stands at 2.5 meters tall. He has a
+golden Halo, and two white feathered wings. 
+
+Sabathiel was personally summoned by Naru to hunt the Blades he does not know
+the location of- this is because he is amongst the best trackers that ever
+exited. Sabathiel is conflicted with The Campaign- on the one hand, as a being
+of pure good, he agrees that the gods are definitely not good; but he finds the
+idea of killing them difficult- he find the idea of killing anyone difficult,
+and irreplaceable and old being such as the gods even more so.
+He is also the least bloodthirsty among the Greatswords- his long existence and
+his natural tendency to do the most good he can at any point have gotten him
+pretty close to pacifism, for a major general in an armed force.
+
+
