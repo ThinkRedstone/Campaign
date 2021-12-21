@@ -109,9 +109,12 @@ until the current hierarchy was established.
 
 ## Nelghas
 - Longsword Gan Distantshine
-- 2 unnamed dead daggers
-- 1 surviving dagger
+- 2 unnamed dead Daggers
+- 1 surviving Dagger
 
+## Enroute to Nelghas
+- 2 unnamed Daggers
+- 1 Sword tracker
 
 ## Greatswords
 
