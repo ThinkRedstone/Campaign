@@ -157,3 +157,14 @@ Very protective of members in the Order, he sees it as a personal failure every
 time a member dies. His city openly supports the order, and through it a lot
 of the equipment and financing of the Order occurs.
 
+### Aire the Ritualist
+
+Appearance: An elf wearing a white robe, marked with many arcane symbols (and
+of course the Halo).
+
+A genius magician, he does not excel in combat- but rather in his ritual magic
+and his utility. Still, his extremist views alienate the other Greatswords- he
+believes that the unjust should be hunted and killed, no matter how small the
+injustice. Naru disapproves of this bloodthirst, but insists that Aire's talents
+are necessary for the Campaign.
+
