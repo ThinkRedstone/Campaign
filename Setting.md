@@ -78,6 +78,19 @@ to Avernus because they (and their party) `did something to offend Aton-Ka`.
 
 # The Order of Blades
 
+## The Campaign 
+This formalization is here for you Nimrod.
+
+Naru's Campaign, also known within his order as The Campaign, is the Pathfinder
+Campaign's main story (at least for now). His Campaign against the gods is driven by his
+understanding that the gods, in their endless life and unrivaled power, will
+cause and already are causing more injustice than any mortal will ever be able
+to. This is a variation on the question of "How can a benevolent god create a
+world filled with so much evil?"- How can "good gods" allow their peers to cause
+so much misery? Naru's answer is The Campaign. Even though mortal are not just
+by the slightest, their injustices are limited by their trivial power, and so
+Naru believes the world will be more just if left solely in mortal hands.
+
 ## Ranks
 The ranks of members in the order are named after different types of straight
 blades:
