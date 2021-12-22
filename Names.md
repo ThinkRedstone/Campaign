@@ -1,6 +1,6 @@
 # Human
 - Tudrem Tuskscar
-- Leres Steelsky
+- Leres Steelsky: Hunter with Quill
 - Larha Clanfall: Hunter with Quill
 - Zoey Mao
 
