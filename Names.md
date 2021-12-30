@@ -1,7 +1,7 @@
 # Human
 - Tudrem Tuskscar
-- Leres Steelsky
-- Larha Clanfall
+- Leres Steelsky: Hunter with Quill
+- Larha Clanfall: Hunter with Quill
 - Zoey Mao
 
 # Dwarven
