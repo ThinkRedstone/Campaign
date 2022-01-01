@@ -199,4 +199,21 @@ He is also the least bloodthirsty among the Greatswords- his long existence and
 his natural tendency to do the most good he can at any point have gotten him
 pretty close to pacifism, for a major general in an armed force.
 
+### Orpip Kindriver, the Charmer
+
+Appearance: A Gnome in white tunic, if he has to fulfil some sort of official
+function. Will not wear the robes otherwise under any circumstance.
+
+`Maybe change back story so Orpip is still the same charmer, but has a reason to
+serve Naru? Not sure I like having a Greatsword who doesn't believe in the
+Campaign`
+Orpip wasn't looking for justice- he was looking for challenge. Ever the charmer, he
+worked his way up the ladder in the Order of Blades to prove he could. Now that
+he is finished, he has no way of getting out- he feels stuck, with no way of
+escaping the Order now that he proved he could be a Greatsword if he put his
+mind to it.
+
+Naru knows this, of course, but since Orpip could get this far, he figures his
+talent is worth hanging on to.
+
 
