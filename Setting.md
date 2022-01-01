@@ -161,7 +161,7 @@ figure full of passion. Usually less sheltered then most people think.
 
 ### Grotrur the Dwarven King
 
-Appearance: Chainmail, dwarf with red hair and an impressive beard.
+Appearance: Full plate, with an iron crown welded into the helmet. dwarf with red hair and an impressive beard.
 Theme: [Ironforge](https://youtu.be/GnuryDgYUZs)
 
 The king of a `dwarven city`, he was taught that a King's duty is to his people
