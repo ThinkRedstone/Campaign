@@ -217,3 +217,35 @@ Naru knows this, of course, but since Orpip could get this far, he figures his
 talent is worth hanging on to.
 
 
+## Other Members of Note
+
+### Bell Trueflame
+`This is basically ripping off DanMachi, but who cares`
+Theme: [Heroic Desire](https://youtu.be/pWlfyXi0KYs)
+
+This young man, about 16 years of age, was personally picked by Naru- but no one
+knows why. He wasn't orphaned- he didn't live on the streets and see the harshness 
+of the world. He was no soldier, sickened by war and pushed to pursue justice. 
+He was not born in the order, he has no experience
+with why justice is required. But for some reason most of the order struggles to
+understand, Naru picked up this specific boy to join his Order and lavishes
+undue attention on him. This has caused the Order to alienate Bell quite a lot,
+and Bell in turn feels unworthy.
+
+But Naru picked Bell for a reason- out of all of his Order and all of his
+Greatswords, Bell is the truest Hero. He wasn't betrayed, abandoned, raised or 
+threatened. He is, of his own volition, always trying to help those who need
+help. He doesn't care what light it paints him. He doesn't do it because he
+knows how it feels to need help and receive none. He does it because his heart
+tells him it is the right thing to do, because he is a true hero.
+
+Naru understands that his Campaign can only end with him dead. He knows the
+chaos and pain his campaign will bring the world in the short term. He picked
+Bell because he knows, deep in his heart, that himself too is a menace upon the
+world. He knows he will never, no matter how he justifies The Campaign, be as
+good as Bell. And when it is done, he wants Bell to be there.
+
+I think Naru should think of Bell as his son- This kinda feats Bell Cranel and
+Hestia, but also Naru views Bell as a version of himself that can live up to be
+what Naru never could, because Naru needs to do what needs to be done.
+
