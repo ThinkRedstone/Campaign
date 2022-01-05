@@ -114,9 +114,29 @@ means required".
 
 He stands up and all of his weapons rise from the ground into the air into the
 Halo of Blades.
-Behind him, 10 greatswords fall from the sky into the ground. In flashes of light,
+Behind him, 9 greatswords fall from the sky into the ground. In flashes of light,
 figures in white robes or armour appear, with the Halo of Blades on their chest.
-One of them should wear Isoi's dagger.
+Orpip is wearing Isoi's dagger.
 
 Naru: "I am sure you are confused. I am Naru, the Blinding Light.
 I've come to exact Retribution in the name of Justice."
+
+Bla bla bla, Naru avoids spoiling the entire story, Th'el notices the dagger.
+
+Naru calls upon Urian to stand witness `and maybe call the crimes?`.
+
+Naru explains this isn't a trial, and what must be done will be done- but he
+will allow his old friend these last dignities- to die standing, and defending
+himself. Nimrod can now play Aton-ka through Ula.
+
+Naru cleaves Ula's symbol in half with the hatchet, and everybody feels as their
+world loses a god- "You feel your connection with your church loosen- the pride
+you feel in continuing the traditions and belief carried by your church is
+lessened"
+
+Naru: "Now for the other matter. You carry with you something I need. I cannot
+let you go with it in your possession."
+
+He either takes Bertha or attaches Bell to the party to watch over them (and
+secretly to give him more experience with the world).
+Or he uses plot device magic to set a timer.
