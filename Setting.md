@@ -216,7 +216,8 @@ mind to it.
 Naru knows this, of course, but since Orpip could get this far, he figures his
 talent is worth hanging on to.
 
-### Ains Wind
+### Ains Wind, the Swordswoman
+`should probably change the title`
 
 Appearance: A tall blond woman with straight blonde hair. Wears a white
 sleeveless dress under light armor and carries a rapier.
