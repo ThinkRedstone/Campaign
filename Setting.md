@@ -216,6 +216,22 @@ mind to it.
 Naru knows this, of course, but since Orpip could get this far, he figures his
 talent is worth hanging on to.
 
+### Ains Wind
+
+Appearance: A tall blond woman with straight blonde hair. Wears a white
+sleeveless dress under light armor and carries a rapier.
+
+Born to the the blademaster of a large city, Ains was taught by her father about 
+swordfighting from a young age. Her father enjoyed teaching her martial arts,
+but ultimatly did not want to send his only daughter to serve in the army, and
+persuaded her to take a clerical position within the city. Ains was unsatisified
+with this, and soon she graviated to hunting monsters and bandits, instead.
+When her father found out about this, they had a fight, and ultimatly she decided 
+to run away. She was recruited into the Order, where her incredible talent with 
+the sword as well as her experience with adventuring got her promoted fairly quickly,
+and she got the highest rank of Greatsword within only 2 years.
+
+Bell is infatuated with her in a way only a teenager can with another teenager.
 
 ## Other Members of Note
 
@@ -223,7 +239,7 @@ talent is worth hanging on to.
 `This is basically ripping off DanMachi, but who cares`
 Theme: [Heroic Desire](https://youtu.be/pWlfyXi0KYs)
 
-This young man, about 16 years of age, was personally picked by Naru- but no one
+This young man, about 17 years of age, was personally picked by Naru- but no one
 knows why. He wasn't orphaned- he didn't live on the streets and see the harshness 
 of the world. He was no soldier, sickened by war and pushed to pursue justice. 
 He was not born in the order, he has no experience
