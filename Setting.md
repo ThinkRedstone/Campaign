@@ -238,6 +238,8 @@ Bell is infatuated with her in a way only a teenager can with another teenager.
 ### Bell Trueflame
 `This is basically ripping off DanMachi, but who cares`
 Theme: [Heroic Desire](https://youtu.be/pWlfyXi0KYs)
+Appearance: 16 year old male, wearing a white tunic, with white hair and red
+eyes.
 
 This young man, about 17 years of age, was personally picked by Naru- but no one
 knows why. He wasn't orphaned- he didn't live on the streets and see the harshness 
