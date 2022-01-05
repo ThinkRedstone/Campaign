@@ -234,6 +234,21 @@ and she got the highest rank of Greatsword within only 2 years.
 
 Bell is infatuated with her in a way only a teenager can with another teenager.
 
+### Allynna the Spellsmith
+Appearance: A female elf, wearing an elegant white dress
+
+Magic can be divided to three parts: Magical items, Rituals, and Spells.
+If Outrok and Aire do the first two, Allynna does the last one. An old elf, she
+devoted her life to studying magic and crafting spells. She avoids conflict, and
+generally is only intrested in magic and its applications in the betterment of
+society. Some churches didn't
+like this, as she could do with her magic things that normally the citizens
+would need the church to apply divine power for. Because of this, the churches
+in the city plotted to have her removed and her name tarnished- thrown out of
+her own city because she dared trying to help her people without the churches's
+approval, Naru convinced her that with the gods gone she could help many more
+people with her magic.
+
 ## Other Members of Note
 
 ### Bell Trueflame
