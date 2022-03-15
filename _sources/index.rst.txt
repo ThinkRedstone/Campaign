@@ -4,14 +4,15 @@
    contain the root `toctree` directive.
 
 Naru's Campaign Against The Gods
-===============================
+================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   setting/index
    gods.md
-   Setting.md
+   old_setting.md
    adventure.md
    Encounters.md
    Names.md
