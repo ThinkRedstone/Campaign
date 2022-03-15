@@ -1,4 +1,4 @@
-# Setting
+# Old Setting
 
 Getting out of the nine demonic domains is difficult. 
 
@@ -52,7 +52,6 @@ For the most part, no one knows this.
 
 Considered a very capable leader, he leads Nelgahs through the chaos in Avernus.
 
-Can be connected to Asaf's PC. Maybe he recognizes him?
 
 Punishing him curries favour with Obelisk.
 
