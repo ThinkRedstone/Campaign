@@ -1,17 +1,19 @@
-# Human
+# Names
+
+## Human
 - Tudrem Tuskscar
 - Leres Steelsky: Hunter with Quill
 - Larha Clanfall: Hunter with Quill
 - Zoey Mao
 
-# Dwarven
+## Dwarven
 - Lumrock Emberbow
 - Yomnur Merryhood
 - Yardin Grayborn
 - Dhuwini Thunderfeet (f)
 - Bharmore Noblechest (f)
 
-# Elven
+## Elven
 - Vulen Urira
 - Vesstan Elrel
 - Darfin Dorkrana

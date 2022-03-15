@@ -1,3 +1,5 @@
+# Setting
+
 Getting out of the nine demonic domains is difficult. 
 
 Avernus is the lowest, least desirable of the nine domain- the furthest from the 
@@ -5,7 +7,7 @@ Normal plane. To get to the Normal plane, you need to break through the barrier
 separating you current domain from the one above it, until you reach the last
 domain and break through to the Normal Plane.
 
-# Avernus
+## Avernus
 
 First level of the nine demonic domains, and the most populated.
 Also known as the Crater of Damned Souls. Or just "The Crater".
@@ -15,12 +17,12 @@ in a world in which death is not as permanent as it should be, they instead
 dump you in the most hostile and inescapable place in the planes of creation:
 Avernus.
 
-## Appearance 
+### Appearance 
 The ground is mostly black. The whole area is gently sloping down like a giant
 crater. There are a lot of rivers, not all are water. Most of the flora is in 
 shades of dark red.
 
-## Getting Out
+### Getting Out
 In the middle of Avernus there is a `thing`, which leads to the next domain.
 It might be cool to have each domain end in some sort of psychological
 challenge.
@@ -41,7 +43,7 @@ from near the city, outside the walls.
 The most common threat is that of demons and devils, mostly mindless variants,
 which stalk the region as a whole.
 
-### Leader: Gan Distantshine
+#### Leader: Gan Distantshine
 Elf, damned to Avernus because he massacred the most of the Church of Obelisk,
 about `long time` ago. This led to Obelisk personally arriving in the Normal
 Plane, which is a very rare occasion since he generally doesn't intervene, much
@@ -57,7 +59,7 @@ Punishing him curries favour with Obelisk.
 A follower of Naru, he massacred the church in the name of justice- To delay
 Obelisk and prevent him from `something related to the True Blade of Obelisk`.
 
-### The Broken Window
+#### The Broken Window
 Located to the right of the main street which extends outside the gatehouse.
 
 The only tavern at Nelgahs. Owned by hot-headed *Lewis*. 
@@ -76,9 +78,9 @@ in a raid (they were both also bandits with his party). He and Aya were thrown
 to Avernus because they (and their party) `did something to offend Aton-Ka`.
 
 
-# The Order of Blades
+## The Order of Blades
 
-## The Campaign 
+### The Campaign 
 This formalization is here for you Nimrod.
 
 Naru's Campaign, also known within his order as The Campaign, is the Pathfinder
@@ -91,7 +93,7 @@ so much misery? Naru's answer is The Campaign. Even though mortal are not just
 by the slightest, their injustices are limited by their trivial power, and so
 Naru believes the world will be more just if left solely in mortal hands.
 
-## Ranks
+### Ranks
 The ranks of members in the order are named after different types of straight
 blades:
 - Dagger
@@ -107,18 +109,18 @@ greatswords, they came to be known as Greatswords, and then lesser members
 started calling themselves after shorter swords- "I'm no Greatsword, I'm barely a dagger"-
 until the current hierarchy was established.
 
-## Nelghas
+### Nelghas
 - Longsword Gan Distantshine
 - 2 unnamed dead Daggers
 - 1 surviving Dagger
 
-## Enroute to Nelghas
+### Enroute to Nelghas
 - 2 unnamed Daggers
 - 1 Sword tracker
 
-## Greatswords
+### Greatswords
 
-### Outrok the Lich
+#### Outrok the Lich
 
 Appearance: A floating figure with light blue skin, wearing a white flowing
 robe.
@@ -133,7 +135,7 @@ the physical Greatswords for all the Greatsword members.
 
 Another option is that he made Naru's True Blade his Phylactery 
 
-### Urian the Blademaster
+#### Urian the Blademaster
 
 Appearance: Usually in full plate, an old human with white hair and scarred
 face.
@@ -150,7 +152,7 @@ lifespan, and curries great influence with Naru- Naru thinks he is the
 Greatsword that best understands what true justice is.
 
 
-### Malen the Champion
+#### Malen the Champion
 
 Appearance: Full plate, young human with black hair and blue eyes.
 Theme: [Stormwind](https://youtu.be/DUA1B3A1ZnY)
@@ -159,7 +161,7 @@ The youngest Greatsword, he was born to members of the order, and dedicated
 himself from birth to Justice and the Great Campaign. A charismatic young
 figure full of passion. Usually less sheltered then most people think.
 
-### Grotrur the Dwarven King
+#### Grotrur the Dwarven King
 
 Appearance: Full plate, with an iron crown welded into the helmet. dwarf with red hair and an impressive beard.
 Theme: [Ironforge](https://youtu.be/GnuryDgYUZs)
@@ -173,7 +175,7 @@ Very protective of members in the Order, he sees it as a personal failure every
 time a member dies. His city openly supports the order, and through it a lot
 of the equipment and financing of the Order occurs.
 
-### Aire the Ritualist
+#### Aire the Ritualist
 
 Appearance: An elf wearing a white robe, marked with many arcane symbols (and
 of course the Halo).
@@ -184,7 +186,7 @@ believes that the unjust should be hunted and killed, no matter how small the
 injustice. Naru disapproves of this bloodthirst, but insists that Aire's talents
 are necessary for the Campaign.
 
-### Sabathiel the Angel
+#### Sabathiel the Angel
 
 Appearance: The tallest Greatsword, Sabathiel stands at 2.5 meters tall. He has a
 golden Halo, and two white feathered wings. 
@@ -199,7 +201,7 @@ He is also the least bloodthirsty among the Greatswords- his long existence and
 his natural tendency to do the most good he can at any point have gotten him
 pretty close to pacifism, for a major general in an armed force.
 
-### Orpip Kindriver, the Charmer
+#### Orpip Kindriver, the Charmer
 
 Appearance: A Gnome in white tunic, if he has to fulfil some sort of official
 function. Will not wear the robes otherwise under any circumstance.
@@ -216,7 +218,7 @@ mind to it.
 Naru knows this, of course, but since Orpip could get this far, he figures his
 talent is worth hanging on to.
 
-### Ains Wind, the Swordswoman
+#### Ains Wind, the Swordswoman
 `should probably change the title`
 
 Appearance: A tall blond woman with straight blonde hair. Wears a white
@@ -234,7 +236,7 @@ and she got the highest rank of Greatsword within only 2 years.
 
 Bell is infatuated with her in a way only a teenager can with another teenager.
 
-### Allynna the Spellsmith
+#### Allynna the Spellsmith
 Appearance: A female elf, wearing an elegant white dress
 
 Magic can be divided to three parts: Magical items, Rituals, and Spells.
@@ -249,9 +251,9 @@ her own city because she dared trying to help her people without the churches's
 approval, Naru convinced her that with the gods gone she could help many more
 people with her magic.
 
-## Other Members of Note
+### Other Members of Note
 
-### Bell Trueflame
+#### Bell Trueflame
 `This is basically ripping off DanMachi, but who cares`
 Theme: [Heroic Desire](https://youtu.be/pWlfyXi0KYs)
 Appearance: 16 year old male, wearing a white tunic, with white hair and red
