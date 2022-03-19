@@ -6,3 +6,12 @@ that the only way to truly uphold justice is to remove all the gods.
 
 ## Inspiring song
 https://youtu.be/mPTCq3LiZSE
+
+## Twist Idea: The Party Kills Bell
+
+The party kills Bell Trueflame, which makes Naru understand that even though
+mortal are limited in their power, they make good use of it in being cruel and
+unjust. 
+
+Naru turns on the world, Abbadon-style, turning into the Punishing Light, the
+god of Retribution, and its up to our party and the order of blades to kill him.
