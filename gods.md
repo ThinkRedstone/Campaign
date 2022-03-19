@@ -70,3 +70,32 @@ they will cause the world to suffer.
 Alignment: Lawful Good
 Theme: https://youtu.be/qXVmZuPOzU0
 Symbol: Swords arranged in a circle to form a sun.
+
+## Edon
+
+The *God of Unity*. He will unite all of mortal kind. And with Naru's recent
+aggression, he will do it by the sword if he has to.
+
+He is also called the *God of Chains*, referencing the metaphorical chains that bind
+mortal societies.
+
+True Blade: Shortsword, whereabouts undecided, potentially in the hands of his
+champion.
+Appearance: A human of average height, with wide shoulders, short black hair,
+and brown eyes. He looks to be in his late 20s.
+
+[Theme](https://youtu.be/mPTCq3LiZSE)
+
+### Edon Powers
+Edon has a spectral chain going from him to each of his close followers, one for each.
+The chains catch incoming attacks on Edon, the damage of the attack is inflicted on the
+person the chain is attached to; If the attack would kill that person, the chains break
+as that person dies.
+
+Edon can use chains to bolster his actions- for example when banishing Abbadon and his
+host to Avernus, he wrapped the chains of all of his followers around his sword to bolster
+the spell with everything he had.
+Bolstering his actions in such a way takes a toll on the attached person, potentially
+breaking the chain and killing the person. In the previous example, all the chains broke-
+none of the participating followers survived the spell.
+
