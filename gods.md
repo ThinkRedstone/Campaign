@@ -47,13 +47,6 @@ tugs the strings to lead to favourable outcomes.
 Symbol: A golden spider web.
 Appearance: A normal sized golden spider.
 
-
-## Nuffle
-
-The Chaotic neutral god of Dice. 
-
-Symbol: A D20.
-
 ## Isoi
 The goddess of coin, and those who worship it. Patron
 of the merchants who rob you by day, and the 
