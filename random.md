@@ -15,3 +15,10 @@ unjust.
 
 Naru turns on the world, Abbadon-style, turning into the Punishing Light, the
 god of Retribution, and its up to our party and the order of blades to kill him.
+
+## Lush Cave Inspired Area:
+
+A desolate landscape, full of monsters. Possibly a rocky and cracked region,
+similar to the Shattered Plains, only cold and full of monsters above ground.
+The party gets chased by monsters through it, and find solace in a lush cave,
+a solace in their hard travels.
