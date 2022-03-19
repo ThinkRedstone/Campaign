@@ -11,6 +11,7 @@ Naru's Campaign Against The Gods
    :caption: Contents:
    
    setting/index
+   adventure/index
    gods.md
    old_setting.md
    adventure.md
