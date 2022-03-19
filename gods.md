@@ -99,3 +99,18 @@ Bolstering his actions in such a way takes a toll on the attached person, potent
 breaking the chain and killing the person. In the previous example, all the chains broke-
 none of the participating followers survived the spell.
 
+## Etia
+
+The *Goddess of Safekeeping*. She preaches to find, collect and preserve that
+which otherwise will be no more. This is not strictly gold and jewels, but
+anything and everything which is rare and worth saving. 
+
+### Etia as Nott
+Possible variation is that Etia is a female goblin, and a compolsive collector
+like Nott. When she sees something she wishes to collect, she just does what
+ever she needs to to add it to her collection. In this variation, she is less
+regel and more child-like, and her priests are less collector by themselves and
+more her enablers. 
+
+True Blade: Shears, in a safe in her head priest's personal collection. Probably
+subject to change.
