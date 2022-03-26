@@ -138,3 +138,5 @@ stairs to the rooms on the upper floor on the right. At the back end of the room
 a massive counter, a full meter and a half above the floor, and behind that shelves with bottles
 and small caskets. At the top of this cabinet, surrounded to the sides with shelves full of bottles,
 There is a big display space, housing a big wooden shield with a big curved horn. 
+
+.. _Minotaur: https://2e.aonprd.com/Monsters.aspx?ID=301
