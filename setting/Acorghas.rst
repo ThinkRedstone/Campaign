@@ -32,24 +32,111 @@ city).
 
 Demographic
 -----------
-The city is composed by about 50% redeemed demons. The rest are exiled mortals,
-who have somehow made their way to Acorghas.
+The city is composed by about 50% redeemed demons. Most of the rest are exiled mortals,
+who have somehow made their way to Acorghas. More rarely, monsters seek Acorghas
+of their own volition, in their quest for redemption.
 
-The redeemed demons are fervent followers of Abbadon, some of them redeemed by 
+The redeemed demons are mostly fervent followers of Abbadon, some of them redeemed by 
 his own hand.
 
 
-The Temple
-----------
+City Structure
+--------------
+"Left" and "Right" are relative to when looking at the city from the Outer Crater, 
+that is, towards the plains and hills, opposite to the cliff of the Inner Crater 
+and direction of the center.
+
+In general, the closer you are to the Temple, the more desirable the land,
+And quarters are arranged more-or-less in semi-circle tiers around the Tower.
+
+The Temple Tower
+````````````````
 The tower in the middle of the city is a temple to Abbadon. It hollow inside, 
 leaving the central space with a view all the way to the sky. In the middle of
 this central hall there is the True Blade of Abbadon, which is a flaming longsword.
-It is embedded to the middle of the blade into the floor.
+It is embedded to the middle of the blade into plain rock rising from the floor.
+
+From the roof it is plain to see that the Halo above Acorghas actually centers
+on the Temple and not the city.
 
 The priests are mostly local demons, though there are some humans.
+
+Tower Quarter
+`````````````
+The area immediately
+around the tower is known as the **Tower Quarter** or the **First Quarter**. It is the oldest
+quarter, being built even before the Tower itself, to house Abbadon's first Redeemed followers.
+Most buildings has been since rebuilt to a more luxurious standard, but some of the original
+buildings (and their original inhabitants) still remain.
+
+Red Quarter
+```````````
+This quarter is named for the color of its buildings, which is mostly red and gold- the colors
+of Abbadon. It houses mostly Redeemed demons and demon businesses, which are all followers of 
+Abbadon and so often flaunt his colors. 
+
+It is placed behind and to the left of the `Tower Quarter`_.
+
+Exiles Quarter
+``````````````
+The quarter is named for its demographic, predominantly normal mortals and monsters
+that have been exiled to :ref:`Avernus`. This quarter is not as rich as the Red or Tower
+quarters, but it is still fairly well put- most of the reputable businesses in the 
+city are housed in this quarter. Though some Redeemed demons do live in this quarter, they
+tend to be the ones who are less fervent, and more interested in leading "mortal"
+lives.
+
+It is placed in the same tier as the `Red Quarter`_, to its right.
+
+Newcomers Quarter
+`````````````````
+Named so because it houses mostly new demons and mortals that have not found a place in
+the other Quarters, this Quarter is more prone to trouble mostly in clashes between new
+mortals in the city, and redeemed demons and monsters that the new mortals don't know
+how to deal with, and the redeemed in turn are still foreign to civilization.
+
+It is in the next tier to the Red and Exiles quarters, surrounding the `Exiles Quarter`_
+completely from behind and sprawling a little to the back side of the `Red Quarter`_.
+
+Farmer's Quarter
+````````````````
+This Quarter houses mostly livestock, open markets, horses, and small squat buildings
+for the caretakers of all of those. 
+
+It is placed behind the `Red Quarter`_, and stretches all the way to the main gate.
+
 
 The Order
 ---------
 
 :ref:`Ains Wind, the Swordswoman` is currently in charge in the city. Her objective 
 is obviously to get Abbadon's True Blade.
+
+Inns and Taverns
+----------------
+
+The Severed Horn
+````````````````
+
+A reputable inn in the `Exiles Quarter`_, it is owned by a Redeemed Minotaur_ named 
+**Hornless Arnus**. 
+
+Arnus was once a normal Minotaur, living with his tribe in the
+underground caverns *somewhere*. He led normal Minotaur life, preying on miners and
+other passers-by, until at some point his clan became too much of a nuisance and
+adventurers and soldiers were sent to eradicate it. Bloodied and running for his life with
+one horn broken, Arnus understood for the first time the feelings he caused in 
+his prey. He cut off his other horn, and from there sought redemption.
+
+He appears tall and muscular, covered in brown fur. From the sides of his head, above 
+his cow-like ears, two horn stumps emerge- The left one has a rough and uneven end, while
+the right one is clean-cut.
+
+The sign for his Inn is an X made from two curved horn, one with a straight, clean base, and
+one with a rough, uneven base. On the inside there is a large, well-lit common room, with
+stairs to the rooms on the upper floor on the right. At the back end of the room there is 
+a massive counter, a full meter and a half above the floor, and behind that shelves with bottles
+and small caskets. At the top of this cabinet, surrounded to the sides with shelves full of bottles,
+There is a big display space, housing a big wooden shield with a big curved horn. 
+
+.. _Minotaur: https://2e.aonprd.com/Monsters.aspx?ID=301
