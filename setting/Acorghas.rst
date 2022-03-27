@@ -117,6 +117,9 @@ Inns and Taverns
 
 The Severed Horn
 ````````````````
+.. image:: severed_horn_sign.svg
+   :width: 20%
+   :align: center
 
 A reputable inn in the `Exiles Quarter`_, it is owned by a Redeemed Minotaur_ named 
 **Hornless Arnus**. 
