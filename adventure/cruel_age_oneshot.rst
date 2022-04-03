@@ -8,6 +8,9 @@ and Gaedon transformed into :ref:`Abbadon`, marking the dawn of the Cruel Age.
 
 Jeles
 ~~~~~
+.. image:: Empire_Symbol.svg
+   :width: 20%
+   :align: center
 
 Jeles is the capital of **The Empire of Justice and Mercy**, an Theocracy based
 around the churches of Gaedon_ (god of mercy) and :ref:`Naru` (god of justice), with significant 
@@ -55,6 +58,24 @@ game in the Council of Heads.
 **Apearance**: A chubby old man with white hair and beard, he wears a brown tunic with 
 golden stripes at the base and the end of the cuffs.
 
+Opening Scene: Dayton gives a Quest
+-----------------------------------
+
+The party is sitting in a room in a bad part of town. They have all been summoned by Dayton.
+Dayton enters, with his robes marking him as the high priest of Gaedon_.
+
+He explains to the party that the Church of Gaedon needs a certain woman dead. He doesn't 
+care how or who, so long as the woman is dead, he will pay each PC a 100GP, no questions asked.
+
+His only other stipulation is that **no-one** must know that the church is involved.
+
+The woman's name is `Lilina Trueflame`_, and she can usually be found in the **Brown District**,
+the city district in which the main temple to Gaedon is located (the temple's name is **The Hall of 
+Mercy**).
+
+Intermidiate Scene: Questions about Lilina
+------------------------------------------
+TODO
 
 
 
