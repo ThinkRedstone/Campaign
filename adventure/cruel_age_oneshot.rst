@@ -20,6 +20,17 @@ The government is supposedly headed by Naru and Gaedon in concert, but in realit
 business is ran by the Council of Heads, which is composed of the head priests of all the churches
 in the empire. For this reason, the city houses the central leadership for all Churches.
 
+
+.. _The Hall of Mercy:
+
+The Brown District
+~~~~~~~~~~~~~~~~~~
+
+The Brown District itself is full of well-built stone houses painted mostly white. A lot of the
+people wear brown, and a lot of Gaedon's priests live there. At the center of the district stands
+**The Hall of Mercy**, the central temple of Gaedon's church, where he spends most of his time.
+The Hall of Mercy is also de facto a hospital, with patients seeking the help of the priests.
+
 Gaedon
 ~~~~~~
 .. image:: Gaedon_symbol.svg
@@ -48,6 +59,9 @@ those the church has dismissed.
 She was an orphan, and her and her brother were taken in by Gaedon's Church, something
 she feels gratitude for to this day.
 
+She works in Gaedon's Temple as a Nurse, tending to wounded and sick in the halls 
+and gardens of his temple. She likes taking her patients to the Gardens.
+
 Dayton Nadam
 ~~~~~~~~~~~~
 
@@ -69,15 +83,26 @@ care how or who, so long as the woman is dead, he will pay each PC a 100GP, no q
 
 His only other stipulation is that **no-one** must know that the church is involved.
 
-The woman's name is `Lilina Trueflame`_, and she can usually be found in the **Brown District**,
-the city district in which the main temple to Gaedon is located (the temple's name is **The Hall of 
-Mercy**).
+
+The woman's name is `Lilina Trueflame`_, and she can usually be found in the `Brown District`_,
+the city district in which the main temple to Gaedon is located (the temple's name is `The Hall of Mercy`_).
 
 Intermidiate Scene: Questions about Lilina
 ------------------------------------------
-TODO
 
+Lilina is a very well liked, *merciful* girl. It is known she is usually at the gardens of
+`The Hall of Mercy`_ during the day, often helping patients. It is also rumored that Gaedon
+has taken an interest in her.
 
+Stories
+~~~~~~~
+
+#. Lilina once snuck **Shia Ciaong**'s (females merchant, about 40) son into the temple,
+   and convinced the priests to cure his cold, despite the fact he was denied earlier
+   since his sickness was not severe. He can be seen at the stall, healthy and smiling.
+#. **Fin Vurdon**, a young courier, remembers how she talked with the Guards of Justice
+   and convinced to release him, after he was caught stealing expensive fruit out of 
+   curiosity.
 
 Last Scene: Gaedon's Rage
 -------------------------
@@ -94,10 +119,27 @@ black skin underneath.
 He then gently closes her eyes before standing up. He will than zone in on a pc with metal armor,
 and fly at them, grabbing them, lifting them off the ground, and asking them:
 
-"Why did you do this? Who shares responsibility, mortal?"
+`"Why?"`_
 
-Upon receiving an answer, he will punch the PC, tearing away the front of their armor.
+.. _"Why?": https://youtube.com/playlist?list=PLbwCVXjAHaclGral-SCPnr_S0AHWI2pZg
+
+Upon receiving an answer, he will throw the PC, tearing away the front of their armor.
 In his next turn, his halo will flow to the armor and he will use it to melt it to the shape
 of a sword.
 
 He will than proceed to massacre the PCs, starting with Dayton if relevant.
+
+Dayton will say with his dying breaths:
+
+"She distracted you from our mission... To be with her, you left the sick...
+You betrayed those who..." and then Gaedon cuts off his head.
+
+Qoutes
+~~~~~~
+
+#. "You mortals- you cruel, twisted fiends. You don't deserve my Mercy."
+#. "העידן הזה ידע אכזריות מהי."
+#. "She was the epitome of Mercy. With her removed, what Mercy do you deserve?"
+#. "She distracted me? Than what do you call this distraction? [#]_"
+
+.. [#] Pun absolutely intended.
