@@ -20,6 +20,10 @@ The government is supposedly headed by Naru and Gaedon in concert, but in realit
 business is ran by the Council of Heads, which is composed of the head priests of all the churches
 in the empire. For this reason, the city houses the central leadership for all Churches.
 
+`Background Sound`_
+
+.. _Background Sound: https://www.youtube.com/watch?v=eU-ZDMhokD8
+
 
 .. _The Hall of Mercy:
 
@@ -83,8 +87,7 @@ care how or who, so long as the woman is dead, he will pay each PC a 100GP, no q
 
 His only other stipulation is that **no-one** must know that the church is involved.
 
-
-The woman's name is `Lilina Trueflame`_, and she can usually be found in the `Brown District`_,
+The woman's name is `Lilina Trueflame`_, and she can usually be found in `the Brown District`_,
 the city district in which the main temple to Gaedon is located (the temple's name is `The Hall of Mercy`_).
 
 Intermidiate Scene: Questions about Lilina
@@ -103,6 +106,15 @@ Stories
 #. **Fin Vurdon**, a young courier, remembers how she talked with the Guards of Justice
    and convinced to release him, after he was caught stealing expensive fruit out of 
    curiosity.
+
+
+Finding Lilina Scene: Lilina Helping a Blind Patient
+----------------------------------------------------
+
+When the temple is searched, Lilina can be found at a small garden with a patient named
+**Fon Daraz**. He has bandages over his eyes, and Lilina talks to him about how nice 
+the birds are and how warm the sun is. If let on, she will also mention how Naru
+is blind, and so Fon should take example from him.
 
 Last Scene: Gaedon's Rage
 -------------------------
@@ -140,6 +152,27 @@ Qoutes
 #. "You mortals- you cruel, twisted fiends. You don't deserve my Mercy."
 #. "העידן הזה ידע אכזריות מהי."
 #. "She was the epitome of Mercy. With her removed, what Mercy do you deserve?"
-#. "She distracted me? Than what do you call this distraction? [#]_"
+#. "She distracted me? Then what do you call this distraction? [#]_"
 
 .. [#] Pun absolutely intended.
+
+Encounters
+----------
+
+Moderate Guard squad
+~~~~~~~~~~~~~~~~~~~~
+120 XP
+
+- 1 `Watch Officer`_
+- 2 Guards_
+
+.. _Watch Officer: https://2e.aonprd.com/NPCs.aspx?ID=936
+.. _Guards: https://2e.aonprd.com/NPCs.aspx?ID=933
+
+A Group of Priests
+~~~~~~~~~~~~~~~~~~
+160 XP
+
+- 4 `Prophets`_
+
+.. _Prophets: https://2e.aonprd.com/NPCs.aspx?ID=894
