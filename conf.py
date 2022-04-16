@@ -52,6 +52,7 @@ html_theme = 'sphinx_rtd_theme'
 html_logo = '_static/Halo_of_Blades.svg'
 html_favicon = '_static/favicon.ico'
 html_theme_options = dict(
+    analytics_id = 'G-DSYQ8HRNTX',
     logo_only = True,
     style_nav_header_background = 'white',
 )
