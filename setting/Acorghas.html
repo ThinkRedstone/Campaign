@@ -249,7 +249,18 @@ There is a big display space, housing a big wooden shield with a big curved horn
       jQuery(function () {
           SphinxRtdTheme.Navigation.enable(true);
       });
-  </script> 
+  </script>
+    <!-- Theme Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DSYQ8HRNTX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-DSYQ8HRNTX', {
+          'anonymize_ip': false,
+      });
+    </script> 
 
 </body>
 </html>
