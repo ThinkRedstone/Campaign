@@ -25,15 +25,17 @@ in the empire. For this reason, the city houses the central leadership for all C
 .. _Background Sound: https://www.youtube.com/watch?v=eU-ZDMhokD8
 
 
-.. _The Hall of Mercy:
+.. _The Halls of Mercy:
 
 The Brown District
 ~~~~~~~~~~~~~~~~~~
 
 The Brown District itself is full of well-built stone houses painted mostly white. A lot of the
 people wear brown, and a lot of Gaedon's priests live there. At the center of the district stands
-**The Hall of Mercy**, the central temple of Gaedon's church, where he spends most of his time.
-The Hall of Mercy is also de facto a hospital, with patients seeking the help of the priests.
+**The Halls of Mercy**, the central temple of Gaedon's church, where he spends most of his time.
+The Halls of Mercy is also de facto a hospital, with patients seeking the help of the priests.
+
+For the Halls of Mercy, see also `Exploring the Temple Scene`_
 
 Gaedon
 ~~~~~~
@@ -88,13 +90,13 @@ care how or who, so long as the woman is dead, he will pay each PC a 100GP, no q
 His only other stipulation is that **no-one** must know that the church is involved.
 
 The woman's name is `Lilina Trueflame`_, and she can usually be found in `the Brown District`_,
-the city district in which the main temple to Gaedon is located (the temple's name is `The Hall of Mercy`_).
+the city district in which the main temple to Gaedon is located (the temple's name is `The Halls of Mercy`_).
 
 Intermidiate Scene: Questions about Lilina
 ------------------------------------------
 
 Lilina is a very well liked, *merciful* girl. It is known she is usually at the gardens of
-`The Hall of Mercy`_ during the day, often helping patients. It is also rumored that Gaedon
+`The Halls of Mercy`_ during the day, often helping patients. It is also rumored that Gaedon
 has taken an interest in her.
 
 Stories
@@ -108,13 +110,60 @@ Stories
    curiosity.
 
 
+Exploring the Temple Scene
+--------------------------
+
+The temple is quite large, almost a District on its own in terms of size. It is composed of 
+**The Outer Hall** and **The Inner Hall**, and gardens which occupy the rest of the space.
+
+Outer Hall
+~~~~~~~~~~
+
+The Outer Hall also serves as the wall of the temple- it surrounds the perimeter of the temple,
+like a small wall, decorated on the outside with banners of the Outstretched Hand. On the inside, 
+there are large windows throughout the bottom floor that give a view to the outer gardens.
+On the upper floors there is probably rooms for the priests, as well as facilities such
+as libraries and offices.
+
+Outer Gardens
+~~~~~~~~~~~~~
+
+The outer gardens occupy the space between the inner and outer halls. They are mostly open space,
+with grass, some flower beds, and the occasional tree.
+
+Inner Hall
+~~~~~~~~~~
+
+The Inner Hall is structured like the Outer Hall- a large hall surrounding the inner gardens.
+Between the two there are the outer gardens. The inner hall contains mostly patient's rooms, 
+and can be though of as a sort of hospital.
+
+Inner Gardens
+~~~~~~~~~~~~~
+
+The inner garden is the garden that is encircled by the inner hall, and  is much more segmented than 
+the outer garden- full of large hedge walls, trees, and winding cobble pathways between large flower beds.
+While the garden as a whole is still large, it is built of smaller "chambers" with walls out of hedges or
+living fences, and each such chambers feels relatively secluded.
+
+At the very center of the inner garden there is a fountain with a life-sized white marble statue of 
+Gaedon, complete with a floating marble halo. *Lilina can be found here- see next scene*
+
+
+
 Finding Lilina Scene: Lilina Helping a Blind Patient
 ----------------------------------------------------
 
 When the temple is searched, Lilina can be found at a small garden with a patient named
 **Fon Daraz**. He has bandages over his eyes, and Lilina talks to him about how nice 
-the birds are and how warm the sun is. If let on, she will also mention how Naru
+the birds are and how warm the sun is. If let on, she will also mention how :ref:`Naru`
 is blind, and so Fon should take example from him.
+
+Fon Daraz himself is also a `Combat Encounter`_. His background is that he is a Paladin
+for the god of Justice, Naru, who was permanently blinded in combat- he is quite depressed
+by the notion he will never be able to fight for justice again.
+
+.. _`Combat Encounter`: `A Wounded Paladin of Naru`_
 
 Last Scene: Gaedon's Rage
 -------------------------
@@ -173,6 +222,20 @@ A Group of Priests
 ~~~~~~~~~~~~~~~~~~
 160 XP
 
+Can be encountered in the temple, or outside, whatever fits the bill.
+
 - 4 `Prophets`_
 
 .. _Prophets: https://2e.aonprd.com/NPCs.aspx?ID=894
+
+A Wounded Paladin of Naru
+~~~~~~~~~~~~~~~~~~~~~~~~~
+120 XP for normal, non-blind.
+
+160 XP for Elite, non-blind.
+
+You'll have to figure yourself how to play with the blindness.
+
+- 1 Blind `Anti-Paladin`_
+
+.. _Anti-Paladin: https://2e.aonprd.com/NPCs.aspx?ID=961
