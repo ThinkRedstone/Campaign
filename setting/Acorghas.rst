@@ -49,8 +49,9 @@ and direction of the center.
 In general, the closer you are to the Temple, the more desirable the land,
 And quarters are arranged more-or-less in semi-circle tiers around the Tower.
 
+
 The Temple Tower
-````````````````
+~~~~~~~~~~~~~~~~
 The tower in the middle of the city is a temple to Abbadon. It hollow inside, 
 leaving the central space with a view all the way to the sky. In the middle of
 this central hall there is the True Blade of Abbadon, which is a flaming longsword.
@@ -61,24 +62,27 @@ on the Temple and not the city.
 
 The priests are mostly local demons, though there are some humans.
 
+
 Tower Quarter
-`````````````
+~~~~~~~~~~~~~
 The area immediately
 around the tower is known as the **Tower Quarter** or the **First Quarter**. It is the oldest
 quarter, being built even before the Tower itself, to house Abbadon's first Redeemed followers.
 Most buildings has been since rebuilt to a more luxurious standard, but some of the original
 buildings (and their original inhabitants) still remain.
 
+
 Red Quarter
-```````````
+~~~~~~~~~~~
 This quarter is named for the color of its buildings, which is mostly red and gold- the colors
 of Abbadon. It houses mostly Redeemed demons and demon businesses, which are all followers of 
 Abbadon and so often flaunt his colors. 
 
 It is placed behind and to the left of the `Tower Quarter`_.
 
+
 Exiles Quarter
-``````````````
+~~~~~~~~~~~~~~
 The quarter is named for its demographic, predominantly normal mortals and monsters
 that have been exiled to :ref:`Avernus`. This quarter is not as rich as the Red or Tower
 quarters, but it is still fairly well put- most of the reputable businesses in the 
@@ -88,8 +92,9 @@ lives.
 
 It is placed in the same tier as the `Red Quarter`_, to its right.
 
+
 Newcomers Quarter
-`````````````````
+~~~~~~~~~~~~~~~~~
 Named so because it houses mostly new demons and mortals that have not found a place in
 the other Quarters, this Quarter is more prone to trouble mostly in clashes between new
 mortals in the city, and redeemed demons and monsters that the new mortals don't know
@@ -99,7 +104,7 @@ It is in the next tier to the Red and Exiles quarters, surrounding the `Exiles Q
 completely from behind and sprawling a little to the back side of the `Red Quarter`_.
 
 Farmer's Quarter
-````````````````
+~~~~~~~~~~~~~~~~
 This Quarter houses mostly livestock, open markets, horses, and small squat buildings
 for the caretakers of all of those. 
 
@@ -115,8 +120,9 @@ is obviously to get Abbadon's True Blade.
 Inns and Taverns
 ----------------
 
+
 The Severed Horn
-````````````````
+~~~~~~~~~~~~~~~~
 .. image:: severed_horn_sign.svg
    :width: 20%
    :align: center
@@ -143,3 +149,33 @@ and small caskets. At the top of this cabinet, surrounded to the sides with shel
 There is a big display space, housing a big wooden shield with a big curved horn. 
 
 .. _Minotaur: https://2e.aonprd.com/Monsters.aspx?ID=301
+
+
+Random People
+-------------
+
+Toya and Kylre 
+~~~~~~~~~~~~~~~
+.. note:: Inspired by Critical Role, C2E1-4: Small Girl with broken voice adopted by big and scary demon.
+          I wrote Hezrou because that's a frog monster like in CR, but for balance reasons a Ceustodaemon might be more appropriate.
+
+**Toya Deepheart** is an orphan dwarven girl about the age of 12. She was exiled with 
+her father to Avernus at the age of 6, but he died shortly after fending off a Hezrou_.
+Her voice is badly damaged, she sounds hoarse permanently.
+
+**Kylre** (Kyle Ree) is a Hezrou_ and Toya's adoptive father. He was redeemed by caring for Toya after killing her father.
+
+The story goes thus: Soon after Toya and her father arrived in Avernus, Kylre- at this point not Redeemed- found a tasty meal in them.
+Her father fought Kylre and instructed her to run, and so she did, crying all the while,
+breaking her voice until it would never heal. After consuming her father, Kylre gave chase, looking to finish 
+his meal with a snack- but when he cornered Toya, sitting on the floor with a twisted ankle, her
+back to a tree and a monster looming over her, all she could was cry for her father. Encountering this
+tiny, crying form, Kylre was puzzled- he decided to save the snack for later. Over the next few months,
+Kylre began to redeem himself- always "saving the snack for later", he fed Toya and defended her.
+Eventually, he realized he is no longer the demon he once was, and made his way to Acorghas, where
+he now lives with Toya.
+
+This make Kylre a 1st generation Redeemed demon, without Abbadon's influence (which should be quite rare).
+
+.. _Ceustodaemon: https://2e.aonprd.com/Monsters.aspx?ID=89
+.. _Hezrou: https://2e.aonprd.com/Monsters.aspx?ID=601
