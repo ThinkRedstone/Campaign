@@ -75,6 +75,6 @@ base of operations in Acorghas.
    like angles, mostly (only?) created by Abbadon during the Cruel Age, but they can reproduce.
    On an unrelated note, Cheka's colors are not natural for young pit fiends, and are because
    she was born Redeemed (similar to that domesticated fox experiment). I would imagine 3rd 
-   and 4th Redeemed pit lords would be even lighter in shade, perhaps with silver or white scales
+   and 4th generation Redeemed pit lords would be even lighter in shade, perhaps with silver or white scales
    devoid of any red.
 
