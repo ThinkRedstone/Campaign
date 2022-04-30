@@ -150,6 +150,38 @@ There is a big display space, housing a big wooden shield with a big curved horn
 
 .. _Minotaur: https://2e.aonprd.com/Monsters.aspx?ID=301
 
+Shops
+-----
+
+Astrog's Armory
+~~~~~~~~~~~~~~~~
+
+.. _Astrog:
+Astrog is a Brimorak_ demon. As such, he is about 1m high.
+
+He is blacksmith and magicsmith, specializing in creating magical armor and 
+tools. He is especially known for creating fire-resistant armor.
+
+He was originally created at :ref:`Jeles`, shortly after :ref:`Gaedon` turned, which makes him one of
+the oldest demons in existence. The task given to him and his kin, when they were created,
+was to burn Jeles to the ground- they turned the whole city into an inferno, burning it and
+its inhabitants to cinders. As part of Abbadon's host, he burned great cities and ancient forests-
+fields of grain lush hillsides. City walls were turned to fire-traps, homes into infernos.
+
+In the battle that marked the end of the Cruel Age, Astrog survived, and was soon redeemed by 
+Abbadon's hand. The screams of burning mortals and the view of ancient tree burning as their inhabitants
+jump off of them still haunt him, which is why he focuses on armor and tools to combat fires.
+
+
+Selling:
+""""""""
+
+- `Decanter of Endless Water <https://2e.aonprd.com/Equipment.aspx?ID=254>`_
+- `Non-magical Armor <https://pf2easy.com/index.php?id=2499&name=armor_categories>`_
+- `Armor with Fire Resistance <https://pf2easy.com/index.php?id=2921&name=energy-resistant>`_
+- `Rings of Fire Resistnace <https://pf2easy.com/index.php?id=2896&name=ring_of_energy_resistance>`_
+
+.. _Brimorak: https://2e.aonprd.com/Monsters.aspx?ID=1111
 
 Random People
 -------------
