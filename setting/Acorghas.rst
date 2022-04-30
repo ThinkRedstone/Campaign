@@ -157,7 +157,9 @@ Astrog's Armory
 ~~~~~~~~~~~~~~~~
 
 .. _Astrog:
-Astrog is a Brimorak_ demon. As such, he is about 1m high.
+Astrog is a Brimorak_ demon. As such, he is about 1m high. He looks very muscular, and wears
+a large belt with various hammers and smithing tools hanging from it. On the bottom of his 
+feet, he wears large metal blocks, which surround his hoofs and prevent them from burning.
 
 He is blacksmith and magicsmith, specializing in creating magical armor and 
 tools. He is especially known for creating fire-resistant armor.
