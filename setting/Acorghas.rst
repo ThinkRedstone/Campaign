@@ -156,6 +156,12 @@ Shops
 Astrog's Armory
 ~~~~~~~~~~~~~~~~
 
+This is a magical armor and items shop located in the `Tower Quarter`_. It looks out of place,
+a small squat building of gray stone and a large chimney, with an open front revealing a large
+but short forge, with anvils and barrels sunk into the ground.
+On the inside, one wall is filled with shelves lined with items, and the other three walls are lined
+with suites of armor and shields.
+
 .. _Astrog:
 Astrog is a Brimorak_ demon. As such, he is about 1m high. He looks very muscular, and wears
 a large belt with various hammers and smithing tools hanging from it. On the bottom of his 
