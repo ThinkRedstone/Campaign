@@ -44,7 +44,7 @@ he should consider replacing it he want to mingle with well-put people.
 .. _Barbazu: https://2e.aonprd.com/Monsters.aspx?ID=110
 .. _Pitfiend: https://2e.aonprd.com/Monsters.aspx?ID=114
 
-.. _Checka:
+.. _Cheka:
 
 The Demon Child Looking For Her Dogs
 ------------------------------------
@@ -77,4 +77,12 @@ base of operations in Acorghas.
    she was born Redeemed (similar to that domesticated fox experiment). I would imagine 3rd 
    and 4th generation Redeemed pit lords would be even lighter in shade, perhaps with silver or white scales
    devoid of any red.
+
+The Ring of a Smithy Calls Home
+-------------------------------
+In the city there is a blacksmith named :ref:`Astrog`, which creates magical
+protective equipment. He is quite famous, since he is one of the founders of
+Acroghas. His shop is also located in the :ref:`Tower Quarter`, and might be
+passed by people coming from the gate. He can be seen by the party making
+equipment when they pass by.
 
