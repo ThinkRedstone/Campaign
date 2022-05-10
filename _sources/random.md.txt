@@ -22,3 +22,8 @@ A desolate landscape, full of monsters. Possibly a rocky and cracked region,
 similar to the Shattered Plains, only cold and full of monsters above ground.
 The party gets chased by monsters through it, and find solace in a lush cave,
 a solace in their hard travels.
+
+## Tomb of the Dead Soldier
+
+A Tomb to Aton-Ka. Honored by Naru as the tomb for his old friend,
+once a soldier, now dead.
