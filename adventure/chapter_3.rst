@@ -2,7 +2,7 @@
 
 Chapter 3: The Blade in Acorghas
 ================================
-The general plot is that :ref:`Ains Wind` is in :ref:`Acorghas` looking to get
+The general plot is that :ref:`Ains` Wind is in :ref:`Acorghas` looking to get
 Abbadon's true blade in any way she can. The party were sent by :ref:`Sraqtat`
 to retrieve the blade themselves, in an effort to delay Naru.
 
@@ -85,4 +85,22 @@ protective equipment. He is quite famous, since he is one of the founders of
 Acroghas. His shop is also located in the :ref:`Tower Quarter`, and might be
 passed by people coming from the gate. He can be seen by the party making
 equipment when they pass by.
+
+The True Flame Monument
+-----------------------
+
+At a middle floor of :ref:`The Tower`, there is a small room branching off the main balcony encircling the hollow center.
+This small room contains a life-sized marble statue_ of a smiling woman (:ref:`Lilina Trueflame`) in a simple dress, with an 
+outstretched hand. Over her hand, there is a small floating orange flame.
+
+On the pedestal the statue stand on, there is a inscription in Celestial:
+
+  In the heart of every person burns the need to do good- to give mercy to the poor, justice to the weak, fellowship to the lonely.
+  For some this fire is dampened to a spark by the cruelty of life; for others, it rises to consume their entire existence.
+  In every person, this desire rings true- and mortals are made divine by this **Trueflame**.
+
+  -- In Memory of Lilina Trueflame
+
+
+.. _Statue: https://www.heroforge.com/load_config%3D502837608/
 

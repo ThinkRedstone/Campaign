@@ -50,6 +50,8 @@ In general, the closer you are to the Temple, the more desirable the land,
 And quarters are arranged more-or-less in semi-circle tiers around the Tower.
 
 
+.. _The Tower:
+
 The Temple Tower
 ~~~~~~~~~~~~~~~~
 The tower in the middle of the city is a temple to Abbadon. It hollow inside, 
@@ -117,6 +119,12 @@ The Order
 :ref:`Ains Wind, the Swordswoman` is currently in charge in the city. Her objective 
 is obviously to get Abbadon's True Blade.
 
+:ref:`Bell Trueflame` is visiting the city, attached to Ains, but she does not include
+him in her operations, despite his protests. She thinks he is young an inexperienced.
+
+Bell is also recognized by Elas due to his relation with :ref:`Lilina Trueflame`, which
+his master tried to summon.
+
 Inns and Taverns
 ----------------
 
@@ -153,6 +161,8 @@ There is a big display space, housing a big wooden shield with a big curved horn
 Shops
 -----
 
+.. _Astrog:
+
 Astrog's Armory
 ~~~~~~~~~~~~~~~~
 
@@ -162,7 +172,6 @@ but short forge, with anvils and barrels sunk into the ground.
 On the inside, one wall is filled with shelves lined with items, and the other three walls are lined
 with suites of armor and shields.
 
-.. _Astrog:
 Astrog is a Brimorak_ demon. As such, he is about 1m high. He looks very muscular, and wears
 a large belt with various hammers and smithing tools hanging from it. On the bottom of his 
 feet, he wears large metal blocks, which surround his hoofs and prevent them from burning.
