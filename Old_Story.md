@@ -1,4 +1,4 @@
-# Story
+# Old Story
 
 ## Naru, The Core of the Story
 Naru is behind why gods are dying. It was under his guidance that Aton-Ka was
