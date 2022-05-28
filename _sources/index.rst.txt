@@ -12,12 +12,13 @@ Naru's Campaign Against The Gods
    
    setting/index
    adventure/index
+   story/index
    gods.md
    old_setting.md
    adventure.md
    Encounters.md
    Names.md
-   Story.md
+   Old_Story.md
    random.md
 
    
