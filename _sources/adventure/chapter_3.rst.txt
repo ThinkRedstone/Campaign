@@ -91,6 +91,7 @@ The True Flame Monument
 
 :ref:`Bell Trueflame` is present in the city, and upon visiting the Tower, he is guided by one of the priests
 to The True Flame Monument. Elas should recognize him, and PCs should be given the opportunity to follow.
+A hint can be dropped that he helped :ref:`Cheka` find her dogs.
 
 At a middle floor of :ref:`The Tower`, there is a small dark room branching off the main balcony encircling the hollow center.
 This small room contains a life-sized marble statue_ of a smiling woman (:ref:`Lilina Trueflame`) in a simple dress, with an 
