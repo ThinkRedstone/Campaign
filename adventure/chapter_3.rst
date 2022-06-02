@@ -89,9 +89,13 @@ equipment when they pass by.
 The True Flame Monument
 -----------------------
 
-At a middle floor of :ref:`The Tower`, there is a small room branching off the main balcony encircling the hollow center.
+:ref:`Bell Trueflame` is present in the city, and upon visiting the Tower, he is guided by one of the priests
+to The True Flame Monument. Elas should recognize him, and PCs should be given the opportunity to follow.
+
+At a middle floor of :ref:`The Tower`, there is a small dark room branching off the main balcony encircling the hollow center.
 This small room contains a life-sized marble statue_ of a smiling woman (:ref:`Lilina Trueflame`) in a simple dress, with an 
-outstretched hand. Over her hand, there is a small floating orange flame.
+outstretched hand. The only thing fighting against the darkness in the room is a small orange flame, floating above her
+raised hand.
 
 On the pedestal the statue stand on, there is a inscription in Celestial:
 
@@ -101,6 +105,15 @@ On the pedestal the statue stand on, there is a inscription in Celestial:
 
   -- In Memory of Lilina Trueflame
 
-
 .. _Statue: https://www.heroforge.com/load_config%3D502837608/
+
+At this monument, Bell reads the inscription and ponders the statue bearing his family name. :ref:`Abbadon` is 
+waiting in the room, his halo dimmer than the flame, saying in common: "You greatly resemble her."
+Abbadon will apologize for arranging this, saying he couldn't help but want to meet her remaining blood.
+Points of discussion between him and Bell:
+
+  - He asks Bell to pass the message that he doesn't rely on :ref:`his sword <The Temple Tower>` any longer, and 
+    Naru can take it back if he wants.
+  - He will finish by saying "I can see why Naru picked you".  
+
 
