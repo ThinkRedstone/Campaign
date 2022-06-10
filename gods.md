@@ -106,11 +106,19 @@ which otherwise will be no more. This is not strictly gold and jewels, but
 anything and everything which is rare and worth saving. 
 
 ### Etia as Nott
-Possible variation is that Etia is a female goblin, and a compolsive collector
+Possible variation is that Etia is a female goblin, and a compulsive collector
 like Nott. When she sees something she wishes to collect, she just does what
 ever she needs to to add it to her collection. In this variation, she is less
-regel and more child-like, and her priests are less collector by themselves and
+regal and more child-like, and her priests are less collector by themselves and
 more her enablers. 
 
 True Blade: Shears, in a safe in her head priest's personal collection. Probably
 subject to change.
+
+## Arca
+
+The *Goddess of the Unyielding*, Arca teaches her followers to pursue what they
+believe at any cost and bow to nothing. Her believers founded The Arena of
+Perseverance, in which you win only by your opponent surrendering- you do not
+win even by his death. The Champion of this Arena traditionally hold her True
+Blade, a Glaive named _The Unyielding Blade?_.
