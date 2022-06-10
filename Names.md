@@ -9,7 +9,6 @@
 - Tan Sagebash
 - Pan Bevusk
 - Talo Vev (f)
-- Shina Mudur (f)
 
 ## Dwarven
 - Lumrock Emberbow
@@ -19,7 +18,6 @@
 - Bharmore Noblechest (f)
 
 ## Elven
-- Vulen Urira
 - Vesstan Elrel
 - Darfin Dorkrana
 - Alasse Balgwyn (f)

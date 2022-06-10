@@ -65,6 +65,24 @@ on the Temple and not the city.
 The priests are mostly local demons, though there are some humans.
 
 
+Priesthood
+""""""""""
+
+- **Shina Mudur** (human f): Latest in joining the Lampart Conjecture. It is
+  implied being wild and sleeping with randoms is part of her Redemption.
+
+- **Vulen Urira** (elf m): An elf priest that tries to behave high and mighty but is
+  actually very lazy.
+
+- **Annor** (`wood giant`_ m): He was captured young and brought to the fighting
+  pits in the south-west, where he grew up as a slave-gladiator. He was very
+  popular, bought his freedom, and worked his way up all the way to the Arena of
+  Perseverance. There, old and weary, he fought another young wood giant, raised in
+  the pits like himself. He killed the young contender, but this senseless
+  bloodshed broke his will- and he sought redemption, swearing to hurt no one.
+
+.. _wood giant: https://pf2easy.com/index.php?id=6982&name=wood_giant&optional=optundefined#!
+
 Tower Quarter
 ~~~~~~~~~~~~~
 The area immediately
