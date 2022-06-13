@@ -6,6 +6,11 @@ The general plot is that :ref:`Ains` Wind is in :ref:`Acorghas` looking to get
 Abbadon's true blade in any way she can. The party were sent by :ref:`Sraqtat`
 to retrieve the blade themselves, in an effort to delay Naru.
 
+Statistics 
+-----------
+
+Remaining Treasure Budget: 300 gp
+
 The Yeth Hound Incident
 -----------------------
 While nearing the city, the party is stalked by 2 Yeth hounds, one with a blue
@@ -117,4 +122,23 @@ Points of discussion between him and Bell:
     Naru can take it back if he wants.
   - He will finish by saying "I can see why Naru picked you".  
 
+The Heist
+---------
+
+:ref:`Ains` is in the city with her party (see also :ref:`Order in Acorghas`).
+
+Her party is compromised of herself, and two others:
+
+* Dwarf Magic Items Specialist - Gyrd Shieldshout
+* Charming Goblin Bard - Bonk the Bard
+
+The :ref:`priesthood <Acorghas priesthood>` are planning a celebration- two options:
+
+* retcon that there is a festival marking the date Abbadon was Redeemed.
+* A priest is choosen to lead the temple
+  **Enam Nala**, a human male in his 40s which the party met in `The True Flame Monument`_, has been
+  chosen by Abbadon to lead the Temple of the Sword, after the previous Head Priest resigned.
+
+The priesthood organized a suprise celebration, and asked Lamart and Bonk to entertain- so now both PCs
+and Ains are planning to use their bard as a distraction while the rest of their respective parties heist the sword.
 
