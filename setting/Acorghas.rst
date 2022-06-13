@@ -65,6 +65,8 @@ on the Temple and not the city.
 The priests are mostly local demons, though there are some humans.
 
 
+.. _Acorghas priesthood:
+
 Priesthood
 """"""""""
 
@@ -80,6 +82,14 @@ Priesthood
   Perseverance. There, old and weary, he fought another young wood giant, raised in
   the pits like himself. He killed the young contender, but this senseless
   bloodshed broke his will- and he sought redemption, swearing to hurt no one.
+
+- **Enam Nala** (human m): A man in his 40s, he has grey hair and wears no beard. He has wise grey eyes,
+  and a serenity that envelops him. Before he redeemed himself he was a general in :ref:`Edon`'s army, 
+  and helped him conquer. When war broke him, he swore to help man find the right path again and joined
+  the priesthood.
+  He was recently selected by Abbadon to lead the priesthood, and although for the priests themselves
+  Abbadon's word is law, many in the general public of demons think he lacks the ability to 
+  properly redeem their kind.
 
 .. _wood giant: https://pf2easy.com/index.php?id=6982&name=wood_giant&optional=optundefined#!
 
@@ -131,11 +141,13 @@ for the caretakers of all of those.
 It is placed behind the `Red Quarter`_, and stretches all the way to the main gate.
 
 
+.. _Order in Acorghas:
+
 The Order
 ---------
 
 :ref:`Ains Wind, the Swordswoman` is currently in charge in the city. Her objective 
-is obviously to get Abbadon's True Blade.
+is obviously to get Abbadon's True Blade. See :ref:`The Heist`.
 
 :ref:`Bell Trueflame` is visiting the city, attached to Ains, but she does not include
 him in her operations, despite his protests. She thinks he is young an inexperienced.
