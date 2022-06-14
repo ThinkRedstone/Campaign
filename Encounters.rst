@@ -32,3 +32,15 @@ Demon Priests (90xp)
 
 .. _Zebub: https://pf2easy.com/index.php?id=6901&name=zebub_(accuser_devil)#!
 .. _Cacodaemon: https://pf2easy.com/index.php?id=3588&name=cacodaemon_(harvester_daemon)
+
+Human Priest and Two Others (100xp)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This group can include :ref:`Shina <Acorghas priesthood>`.
+
+- 1 Prophet_
+- 2 Cacodaemon_ or 2 Acolyte_
+
+
+.. _Prophet: https://pf2easy.com/index.php?id=5659&name=prophet
+.. _Acolyte: https://pf2easy.com/index.php?id=5658
