@@ -16,7 +16,7 @@ Naru's Campaign Against The Gods
    gods.md
    old_setting.md
    adventure.md
-   Encounters.md
+   Encounters
    Names.md
    Old_Story.md
    random.md

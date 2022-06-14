@@ -11,6 +11,8 @@ Statistics
 
 Remaining Treasure Budget: 300 gp
 
+`Necklace of Fireballs <https://pf2easy.com/index.php?id=2890&name=necklace_of_fireballs>`_: 44 gp
+
 The Yeth Hound Incident
 -----------------------
 While nearing the city, the party is stalked by 2 Yeth hounds, one with a blue

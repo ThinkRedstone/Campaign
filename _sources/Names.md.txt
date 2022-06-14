@@ -1,9 +1,10 @@
 # Names
 
-## Human
-- Tudrem Tuskscar
 - Leres Steelsky: Hunter with Quill
 - Larha Clanfall: Hunter with Quill
+
+## Human
+- Tudrem Tuskscar
 - Zoey Mao
 - Bram Murgiz
 - Tan Sagebash
