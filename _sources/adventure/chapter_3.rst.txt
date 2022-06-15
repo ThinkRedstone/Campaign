@@ -144,3 +144,12 @@ The :ref:`priesthood <Acorghas priesthood>` are planning a celebration- two opti
 The priesthood organized a suprise celebration, and asked Lamart and Bonk to entertain- so now both PCs
 and Ains are planning to use their bard as a distraction while the rest of their respective parties heist the sword.
 
+The Manhunt
+-----------
+
+Grust feels enjoyment and approval from Bertha for the bar fight. Next fight Bertha upgrades to a +1
+weapon.
+
+Grust and Th'el are hunted by the guard, and while they're hunted / in jail :ref:`Ains` steals the sword,
+turning off the halo protecting Acorghas from the demons and flooding the city with fiends.
+
