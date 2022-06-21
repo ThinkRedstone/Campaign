@@ -123,6 +123,57 @@ lives.
 It is placed in the same tier as the `Red Quarter`_, to its right.
 
 
+.. _stockade:
+
+
+The Vindication Stockade 
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Vindication Stockade  is Acorghas's jail and courtroom. It is located in the exile's quarter,
+on the border with the red and tower quarters. It is a large and chunky stone building, surrounded with a wooden
+wall. It is also the Headquarters for Acorghas's guard.
+
+
+Notable Members of the Guard
+""""""""""""""""""""""""""""
+
+see also :ref:`Entering the City`.
+
+- **Morfir Lelonn** (elf m)- Commander of the Guard. A very tired-looking elf with blonde hair and relatively pale skin. He is very calm
+  and collected, generally sitting behind his desk reading reports and filling paperwork. He greatly misses the Great Forest, but he is
+  too wrapped up in duty for him to notice it. He was once a leader of a "bandit" group, hunting people that hurt his Forest, at the
+  blessing of :ref:`Behemoth`.
+- **Kagi Starbreaker** (human f)- Second in Command. A very pretty, and surprisingly young woman with black hair tied in a pony tail
+  with a ribbon. She and Morfir have a very close relationship while handling the Guard, with him handling the planning and logistics 
+  and her taking care of execution of the plans.
+- **Boker** (zebub m)- A demon employed by the guard. Arrested Lampart.
+- **Kazor** (barghest_ f)- A demon Watch Officer that was on duty for the area in the Exiles quarter in which the Severed Horn is located.
+  Leads the headhunt. Takes the form of a wolf (which Bertha despises). Other form is a female goblin.
+
+.. _barghest: https://2e.aonprd.com/Monsters.aspx?ID=41
+
+
+Procedure 
+""""""""""
+Generally, those convicted of grave offenses are simply exiled "until they find their Redemption",
+so the Vindication Stockade doesn't serve as a prison. 
+
+**The Court of the Fallen** hands out judgment, and it is staffed mostly by
+the `Acorghas Priesthood`_, but sometimes other members of note is Acorghas that are not strictly priests.
+The seniority of the member of the court judging a case is correlated to the severity of the offense.
+
+The court also follows the "rule of mortality": you can only be judged by someone with the same
+life expectancy (elves can't judge humans, but they can judge gnomes- demons only judge demons
+and ageless monsters, and for monsters it varies depending on the type).
+
+The court's official job is to "guide the fallen towards their redemption"- this is where
+it draws its name from, why it is mostly staffed by priests, and why they follow the 
+rule of mortality. [#]_ 
+
+.. [#]: it is thought you cannot understand the path to redemption if you cannot walk it yourself- 
+   thus an elf could not effectively choose the path for a human who lives a tenth of the elf.
+
+
 Newcomers Quarter
 ~~~~~~~~~~~~~~~~~
 Named so because it houses mostly new demons and mortals that have not found a place in

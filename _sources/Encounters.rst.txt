@@ -41,6 +41,15 @@ This group can include :ref:`Shina <Acorghas priesthood>`.
 - 1 Prophet_
 - 2 Cacodaemon_ or 2 Acolyte_
 
-
 .. _Prophet: https://pf2easy.com/index.php?id=5659&name=prophet
 .. _Acolyte: https://pf2easy.com/index.php?id=5658
+
+
+Simple Demon (120xp)
+~~~~~~~~~~~~~~~~~~~~
+
+Either **Kazor** from :ref:`stockade` or a demon going over the walls.
+
+- Barghest_ 
+
+.. _barghest: https://pf2easy.com/index.php?id=3523&name=barghest

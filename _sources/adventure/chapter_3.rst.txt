@@ -141,15 +141,17 @@ The :ref:`priesthood <Acorghas priesthood>` are planning a celebration- two opti
   **Enam Nala**, a human male in his 40s which the party met in `The True Flame Monument`_, has been
   chosen by Abbadon to lead the Temple of the Sword, after the previous Head Priest resigned.
 
-The priesthood organized a suprise celebration, and asked Lamart and Bonk to entertain- so now both PCs
+The priesthood organized a surprise celebration, and asked Lamart and Bonk to entertain- so now both PCs
 and Ains are planning to use their bard as a distraction while the rest of their respective parties heist the sword.
 
 The Manhunt
 -----------
 
 Grust feels enjoyment and approval from Bertha for the bar fight. Next fight Bertha upgrades to a +1
-weapon.
+weapon. Refer to :ref:`stockade`.
 
-Grust and Th'el are hunted by the guard, and while they're hunted / in jail :ref:`Ains` steals the sword,
+Grust and Th'el are hunted by the guard (by **Kazor** specifically), and while they're hunted / in jail :ref:`Ains` steals the sword,
 turning off the halo protecting Acorghas from the demons and flooding the city with fiends.
+
+Remember that the **sword is stolen tommorow evening**.
 
