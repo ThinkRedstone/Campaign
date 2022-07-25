@@ -82,7 +82,9 @@ mortal societies.
 True Blade: Shortsword, whereabouts undecided, potentially in the hands of his
 champion.
 Appearance: A human of average height, with wide shoulders, short black hair,
-and brown eyes. He looks to be in his late 20s.
+and brown eyes. He looks to be in his late 20s. His chest and arms are covered
+with silver burn scars- he got them restraining Abbadon while casting the ritual
+to banish him to Avernus.
 
 [Theme](https://youtu.be/mPTCq3LiZSE)
 

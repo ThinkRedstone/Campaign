@@ -3,3 +3,4 @@ Story
 
 .. toctree::
   grust
+  abbadon
