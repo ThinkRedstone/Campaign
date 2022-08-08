@@ -168,15 +168,19 @@ Ains Wind, the Swordswoman
 Appearance: A tall blond woman with straight blonde hair. Wears a white
 sleeveless dress under light armor and carries a rapier.
 
-Born to the the blademaster of a large city, Ains was taught by her father about 
-swordfighting from a young age. Her father enjoyed teaching her martial arts,
-but ultimatly did not want to send his only daughter to serve in the army, and
-persuaded her to take a clerical position within the city. Ains was unsatisified
-with this, and soon she graviated to hunting monsters and bandits, instead.
-When her father found out about this, they had a fight, and ultimatly she decided 
-to run away. She was recruited into the Order, where her incredible talent with 
-the sword as well as her experience with adventuring got her promoted fairly quickly,
-and she got the highest rank of Greatsword within only 2 years.
+Born to the blademaster of a large city, Ains was taught by her father about 
+swordfighting from a young age. However, she never aspired to be a simple soldier, not even
+a blademaster- she always dreamt of the unexplored. Her father enjoyed teaching her martial arts,
+but ultimately did not want to endanger his only daughter, and
+persuaded her to take a clerical position under the army within the city. 
+Ains was unsatisfied with this, and soon she gravitated to :ref:`the Pathfinder Society`.
+When her father found out about this, they had a fight, and ultimately she decided 
+to run away, to explore. 
+
+Initially, the Order only sponsored pathfinders to look for True Blades or clues to their whereabouts,
+but soon some sympathetic pathfinders like Ains were integrated into the Order directly. 
+There her incredible talent with the sword as well as her experience with adventuring got her promoted fairly quickly,
+and she got the highest rank of Greatsword within only a few years. 
 
 Bell is infatuated with her in a way only a teenager can with another teenager.
 
@@ -196,6 +200,22 @@ in the city plotted to have her removed and her name tarnished- thrown out of
 her own city because she dared trying to help her people without the churches's
 approval, Naru convinced her that with the gods gone she could help many more
 people with her magic.
+
+Ains's Crew
+-----------
+
+.. _Bonk:
+
+Bonk De Bard
+~~~~~~~~~~~~
+
+**Appearance**: a goblin of average size for a goblin (90 cm). |
+Usually cloaked in a deep purple vest with matching pants. He wears several heavy 
+gold chains, lots of golden bracelets, and several rings. He carries a beat-up lute.
+
+He thinks himself an artist, a pioneer in Traditional Goblin Music, i.e. rapping.
+He really likes diss tracks.
+
 
 Other Members of Note
 ---------------------
