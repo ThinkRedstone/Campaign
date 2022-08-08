@@ -201,6 +201,22 @@ her own city because she dared trying to help her people without the churches's
 approval, Naru convinced her that with the gods gone she could help many more
 people with her magic.
 
+Ains's Crew
+-----------
+
+.. _Bonk:
+
+Bonk De Bard
+~~~~~~~~~~~~
+
+**Appearance**: a goblin of average size for a goblin (90 cm). |
+Usually cloaked in a deep purple vest with matching pants. He wears several heavy 
+gold chains, lots of golden bracelets, and several rings. He carries a beat-up lute.
+
+He thinks himself an artist, a pioneer in Traditional Goblin Music, i.e. rapping.
+He really likes diss tracks.
+
+
 Other Members of Note
 ---------------------
 
