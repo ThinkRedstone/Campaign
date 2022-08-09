@@ -46,8 +46,14 @@ Pathfinders
 ~~~~~~~~~~~
 
 The lowest "rank" are the simple pathfinders- the explorers that set out with a Venture-Captain on an expedition.
+Pathfinders are entered into the society by completing an expedition with other Pathfinders successfully. 
+Thus, aspiring Pathfinders generally seek a lodge- once there, they will convince the Lodge Master and other 
+Pathfinders of their usefulness or their potential, in hopes of being included in an expedition. Lodge Masters
+often will help train these aspiring Pathfinders, if they think they have potential or otherwise like them.
 
-TODO: finish this 
+Sometimes, a Venture-Captain will allow someone to join the expedition outside the lodge, if circumstances demand it.
+Regardless of how one joined, once an expedition is completed successfully, the Venture-Captain and the Lodge Master
+will commission all the new members of the expedition as Pathfinders.
 
 Lodges
 ------
@@ -59,3 +65,17 @@ is the collection of reports from pathfinders and their distribution among the s
 
 Only the lodge staff is associated with the lodge- pathfinders come and go and don't often visit the
 same lodge more than once.
+
+Equipment
+---------
+
+Pathfinder expeditions are generally equipped depending on the needs of the particular expedition and the decisions of the 
+Venture-Captain and Lodge Master. They will however always carry paper, ink and pens- as well as cryptography tools and
+astrolabes. The point of any expedition is discovery, and you ain't found nothing if no one knows you did.
+
+Pathfinders are also given two pieces of equipment that they generally always carry- a pocket watch, and their compass.
+The pocket watch and compass are necessary both for navigation and the creation of maps, but the compass serves a dual purpose-
+besides a needle pointing north, it also has a needle that always points to the nearest lodge.
+Pathfinders generally carry both of these on the inner side of a leather bracelet on their left arm, which allows reading them
+while holding on to maps or torches.
+
