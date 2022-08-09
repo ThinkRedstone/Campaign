@@ -94,6 +94,9 @@ The youngest Greatsword, he was born to members of the order, and dedicated
 himself from birth to Justice and the Great Campaign. A charismatic young
 figure full of passion. Usually less sheltered then most people think.
 
+
+.. _Grotrur:
+
 Grotrur the Dwarven King
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -215,6 +218,16 @@ gold chains, lots of golden bracelets, and several rings. He carries a beat-up l
 
 He thinks himself an artist, a pioneer in Traditional Goblin Music, i.e. rapping.
 He really likes diss tracks.
+
+Gyrd Shieldshout
+~~~~~~~~~~~~~~~~
+
+**Appearance**: a dwarf with ginger hair of average height (1.5m).|
+Wears plain clothes, with the sleeves pulled back to reveal his intimidating muscles.
+
+He is a simple cook, the owner of a Tavern in :ref:`Grotrur`'s city. Grotrur has called upon
+him to join the order due to his innate talent with magic, but in his mind he is just a simple
+chef, in over his head.
 
 
 Other Members of Note
