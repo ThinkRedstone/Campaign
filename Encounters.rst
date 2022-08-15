@@ -95,3 +95,26 @@ Two guards, or two officers attending.
 
 .. _watch officer: https://pf2easy.com/index.php?id=5710&name=watch_officer&optional=optundefined
 
+Level 3 (Party of 4)
+--------------------
+
+Wolf Demons Attacking a Child (severe)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Two Barghest, attacking :ref:`Cheka`
+
+- 2 Barghest_ 
+
+
+A Hound and a Zebub lying in wait (moderate)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+https://pf2easy.com/advanced/?q=20051,3823&c=3&sp=0&dark=1
+
+Two Guards
+~~~~~~~~~~
+
+Two guards, or two officers, in case they run into the law (again).
+
+- 2 `watch officer`_ 
+
