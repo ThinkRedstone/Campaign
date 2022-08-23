@@ -107,7 +107,7 @@ Two Barghest, attacking :ref:`Cheka`
 
 
 A Hound and a Zebub lying in wait (moderate)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 https://pf2easy.com/advanced/?q=20051,3823&c=3&sp=0&dark=1
 
@@ -118,3 +118,17 @@ Two guards, or two officers, in case they run into the law (again).
 
 - 2 `watch officer`_ 
 
+
+Two Small Demons (Trivial)
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+They are used as bait by a more moderate threat.
+
+https://pf2easy.com/advanced/?q=3648,15826&c=2&sp=1&dark=1
+
+A Demon Sowing Destruction (Moderate)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Either a Brimorak setting fires or a Barbazu killing civilians
+
+https://pf2easy.com/advanced/?q=NaN,3649P,15564P&c=2&sp=0&dark=1

@@ -91,7 +91,11 @@ Priesthood
   Abbadon's word is law, many in the general public of demons think he lacks the ability to 
   properly redeem their kind.
 
+- **Jennakoth** (Cacodaemon_ m): A demon priest serving on the court of the fallen. Has an old flare, 
+  he likes to get to the bottom of the cases brought before him.
+
 .. _wood giant: https://pf2easy.com/index.php?id=6982&name=wood_giant&optional=optundefined#!
+.. _Cacodaemon: https://pf2easy.com/index.php?id=3588&name=cacodaemon_(harvester_daemon)
 
 Tower Quarter
 ~~~~~~~~~~~~~
@@ -280,6 +284,12 @@ Selling:
 - `Rings of Fire Resistnace <https://pf2easy.com/index.php?id=2896&name=ring_of_energy_resistance>`_
 
 .. _Brimorak: https://2e.aonprd.com/Monsters.aspx?ID=1111
+
+
+The Bound Scroll
+~~~~~~~~~~~~~~~~
+
+A book shop ran by a Cacodaemon_ named **Zarkog**. Has arcane tomes as well as general books.
 
 Random People
 -------------

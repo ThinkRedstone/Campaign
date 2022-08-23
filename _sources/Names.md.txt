@@ -33,5 +33,3 @@
 - Errath
 - Irolath
 - Juzrin
-- Zarkog
-- Jennakoth
