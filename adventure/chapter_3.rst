@@ -160,3 +160,15 @@ turning off the halo protecting Acorghas from the demons and flooding the city w
 
 Remember that the **sword is stolen tommorow evening**.
 
+The Demon Attack
+----------------
+
+After the sword is stolen, :ref:`Abbadon`'s protection is disrupted.
+
+The :ref:`guard <stockade>`  prepares a defence they know cannot hold, while the city itself is in a panic.
+**Kagi Starbreaker** is heading the defence towards the inner crate, while `Desper <Entering The City>`_ is commanding
+the gate towards the outer city.
+
+.. note:: After stealing the sword, it is very late- PCs need sleep
+
+The PCs sleep through out almost all of the night before the shouts start.
