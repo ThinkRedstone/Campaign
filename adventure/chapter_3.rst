@@ -9,9 +9,14 @@ to retrieve the blade themselves, in an effort to delay Naru.
 Statistics 
 -----------
 
-Remaining Treasure Budget: 300 gp
+Base Budget: 300 gp
+Remaining Treasure Budget: 222 gp
 
+`Flaming True Blade of Abbadon <https://pf2easy.com/index.php?id=2933&name=flaming>`_: Priceless
 `Necklace of Fireballs <https://pf2easy.com/index.php?id=2890&name=necklace_of_fireballs>`_: 44 gp
+`Golden Symbol of Abbadon <https://pf2easy.com/index.php?id=3057&name=religious_symbol,_silver_>`_: 2 gp
+Loose Coin: 32 gp
+
 
 The Yeth Hound Incident
 -----------------------
