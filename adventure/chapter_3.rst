@@ -99,7 +99,7 @@ passed by people coming from the gate. He can be seen by the party making
 equipment when they pass by.
 
 The True Flame Monument
------------------------
+------------------------
 
 :ref:`Bell Trueflame` is present in the city, and upon visiting the Tower, he is guided by one of the priests
 to The True Flame Monument. Elas should recognize him, and PCs should be given the opportunity to follow.
@@ -173,3 +173,19 @@ the gate towards the outer city.
 .. note:: After stealing the sword, it is very late- PCs need sleep
 
 The PCs sleep through out almost all of the night before the shouts start.
+
+The Desperate Chase
+-------------------
+
+Ains and co are trying to escape the city, and are chased by :ref:`Kagi <Notable Members of the Guard>`, :ref:`Annor <Acorghas priesthood>`
+(which won't raise a hand), and the party. Fighting through a crowd of people escaping the demons, the charade quickly reaches the edge of the fighting, where
+**Desper** is in command, fighting desperately.
+
+| Ains will try to break through the fighting, to get out of the city. 
+| As the chase presses on, the fighting moves inwards, where battlefront and chase front advance on each other.
+
+Possible resolutions:
+
+- Ains cannot break through with the sword, and the party grabs it
+- The whole encounter is pushed back to the tower by the fighting, where Bell confronts her 
+- Ains realises she can't get the sword out and agrees to help the party resolve this situation
