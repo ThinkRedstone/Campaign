@@ -132,3 +132,15 @@ A Demon Sowing Destruction (Moderate)
 Either a Brimorak setting fires or a Barbazu killing civilians
 
 https://pf2easy.com/advanced/?q=NaN,3649P,15564P&c=2&sp=0&dark=1
+
+Ains and Co (Team Rocket)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Ains_
+- Bonk_
+- Gyrd_
+
+.. _Ains: https://monster.pf2.tools/v/XRdP2757-ains-wind
+.. _Bonk: https://pathbuilder2e.com/launch.html?build=258668
+.. _Gyrd: https://monster.pf2.tools/v/rFXOR2c7
+
