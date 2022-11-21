@@ -136,7 +136,8 @@ The Heist
 
 Her party is compromised of herself, and two others:
 
-* Dwarf Magic Items Specialist - Gyrd Shieldshout
+* Dwarf Magic Items Specialist - Gyrd Shieldshout. Gyrd is primarly not a combatant- his job
+  was extracting the sword with as little fanfare as possible, he's the magical engineer.
 * Charming Goblin Bard - Bonk the Bard
 
 The :ref:`priesthood <Acorghas priesthood>` are planning a celebration- two options:
