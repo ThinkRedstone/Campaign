@@ -27,3 +27,9 @@ a solace in their hard travels.
 
 A Tomb to Aton-Ka. Honored by Naru as the tomb for his old friend,
 once a soldier, now dead.
+
+# Encounter Ideas
+
+- Encounter inside a tunnel- lines of sight, rough terrain
+- Enocunter involving cover
+- Encounter involving climbing
