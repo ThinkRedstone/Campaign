@@ -189,3 +189,82 @@ Possible resolutions:
 - Ains cannot break through with the sword, and the party grabs it
 - The whole encounter is pushed back to the tower by the fighting, where Bell confronts her 
 - Ains realises she can't get the sword out and agrees to help the party resolve this situation
+
+The Ultimate Redemption or The Great Escape
+-------------------------------------------
+
+People in the Scene
+~~~~~~~~~~~~~~~~~~~
+
+#. Party
+#. Bell
+#. Cheka
+#. Ains
+#. Bonk
+#. Annor
+#. Enam Nala (later)
+
+Scene
+~~~~~~
+
+The tower is packed with people, its many floors flooded- while Abbadon's True Blade is sitting uselessly in the slot in ground from which once
+a great halo radiated out and over the city. The people are packed wall to wall, scared faces looking towards the
+still sword. **Enam Nala**, leader of the :ref:`Acorghas Priesthood`, rushes to join the party.
+
+"Well", Bonk says, "I'm screwed. I haven't a verse for the occasion."
+
+Ains instruct Bonk and Bell to stick close- Bell says they can't leave these people while holding Cheka_ close.
+Wuzzy is limping behind them both, baring its teeth.
+
+"Cheka is scared", a faint whisper is heard- "Where's dad and mom?"
+
+Ains is out of ideas, her mission is clearly failed.
+
+Wounded soldiers stream from the entrance, approaching the wounded :ref:`Morfir and Kagi <Notable Members of the Guard>`.
+The demons can be heared outside, as the very last remnant of the line is pushed step by step down the corridor.
+
+**Annor**: "We work to undo our mistake- for we will never be free from them. In the end, all must pay the price for what they did."
+
+Bell, Cheka and Bonk should react by arguing that Abbadon should intervene- to save the innocent.
+
+The Ultimate Redemption
+-----------------------
+
+At the behest of Cheka, a figure descends from the sky- grey winged, with three horns and a radiant halo, Abbadon
+slowly falls from the top of the tower down to the bottom, holding a single long metal spike in his left hand.
+
+The demons stop advancing and cower before their god. In a single beat of his wings, Abbadon reaches the demons,
+tearing through them with his spike- his halo blindingly light as its light *burns* at the demons.
+If a flash of white fire, Abbadon disintegrates everything standing in the corridor.
+
+The priests are horrified at the sight of their god, covered in the blood of those he seeks to reedeem.
+
+Outside, the demons can be heared regrouping.
+
+Abbadon monologue:
+
+    "My existance has always been defined by obsession. At first it was with fixing broken mortals- 
+    later my revenge, and finally with fixing the results of my previous mistakes. Yet here we are, another 
+    obsession, another mistake. I can see it so clearly now, the path that lead me here- but for the first time,
+    I can see where I am going, where I need to go."
+
+Abbadon addresses Enam Nala and Annor:
+
+    "Teach them of Redemption and leniency. Teach them of fixing the mistakes of their past."
+    As Abbadon grabs His True Blade, he adds- "But also teach them of not going too far."
+
+As Abbadon stabs the swords through his chest, he and the swords explode to a million 
+gray sparks, flying out through the walls and the skylight, forming above the city a new
+gray halo- flanked by three curved horns, floating above the walls of the city.
+
+In his place, Abbadon leaves a single scroll, in modern celestial, asking for Lilina's Grave
+to be transported to Naru's Monument to the Gods- so "we can finally rest together."
+
+The Great Escape
+----------------
+
+Ains's Greatsword can teleport its holder, and anything she is carrying, to an avatar of Naru (which will be conveniently located
+at the Monument to the Gods). It cannot transport anything resistent to magic, like True Blades, and she can't 
+transport anything she can't physically lift. She might also be able to return to where she came from.
+
+The party can use this to escape by convincing her to let Annor ferry people over by carrying them.

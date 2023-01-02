@@ -114,8 +114,12 @@ ever she needs to to add it to her collection. In this variation, she is less
 regal and more child-like, and her priests are less collector by themselves and
 more her enablers. 
 
-True Blade: Shears, in a safe in her head priest's personal collection. Probably
+*True Blade*: Shears, in a safe in her head priest's personal collection. Probably
 subject to change.
+
+*Colors*: Purple and Silver.
+
+*Symbol*: A closed treasure chest.
 
 ## Arca
 
