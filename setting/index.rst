@@ -5,4 +5,5 @@ Setting
   Order
   Nelghas
   Acorghas
+  Kinlodar
   others
