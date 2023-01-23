@@ -105,7 +105,7 @@ Appearance: Full plate, with an iron crown welded into the helmet. dwarf with re
 
 Theme: `Ironforge <https://youtu.be/GnuryDgYUZs>`_
 
-The king of a `dwarven city`, he was taught that a King's duty is to his people
+The king of :ref:`Kinlodar`, he was taught that a King's duty is to his people
 and he should protect them, for any cost. That same teacher later usurped him,
 and Grotrur barely escaped with his life. He prayed for justice and protection
 for his people, and Naru answered.
