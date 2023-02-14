@@ -22,6 +22,8 @@
 - Vesstan Elrel
 - Darfin Dorkrana
 - Alasse Balgwyn (f)
+- Ameria Roxidor (f)
+- Aymer Eilcan
 
 ## Gnome
 - Nikur Wildkind

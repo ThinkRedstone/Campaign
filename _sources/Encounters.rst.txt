@@ -144,3 +144,21 @@ Ains and Co (Team Rocket)
 .. _Bonk: https://pathbuilder2e.com/launch.html?build=258668
 .. _Gyrd: https://monster.pf2.tools/v/rFXOR2c7
 
+Level 4 (Party of 5)
+--------------------
+
+
+Guards or Memebers of the Brotherhood (moderate)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 3 `watch officer`_
+
+Live Merchandise
+~~~~~~~~~~~~~~~~
+
+- 1 dire warg
+- 2 dire wolf
+
+https://pf2easy.com/advanced/?q=4082P,4912P&c=3&sp=1&dark=1
+
+
