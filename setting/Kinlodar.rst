@@ -43,6 +43,16 @@ The Low Tier
 The Low Tier is the lowest and the biggest terrace, divided into three quarters. It is also home to the main market,
 the Iron Market, named so for the larget volume of metals it offers.
 
+Bookie Lookie
+~~~~~~~~~~~~~
+
+A book and magical supplies shop, manned by a sentient set of (very jolly) `Clone Mirrors`_.
+When you enter, a clone of yourself steps out of one of the many mirrors and heads the shop. 
+There is also a spindly half-elven assistant named **Gabrian Grevyre**, which the mirrors sometimes
+clone if there is no one else there. This is mostly his only job, to give the mirrors something to clone
+that has digits.
+
+.. _Clone Mirrors: https://pf2easy.com/index.php?id=21855&name=clone_mirrors
 
 Quest Board
 -----------
