@@ -40,4 +40,15 @@ of visitors to the city seeking buisness in the High Tier.
 The Low Tier
 ~~~~~~~~~~~~
 
-The Low Tier is the lowest and the biggest terrace, divided into three quarters.
+The Low Tier is the lowest and the biggest terrace, divided into three quarters. It is also home to the main market,
+the Iron Market, named so for the larget volume of metals it offers.
+
+
+Quest Board
+-----------
+
+These are things the city might hire adventurers to do.
+**It will also offer a reward for anyone turning in smugglers of illegal Direwolf pelts or other products.**
+
+- Clear old mining shafts from dangerous minotour clans
+- Guard shipping caravens on their subterranean journey through the Negrogh range to other dwarven cities
