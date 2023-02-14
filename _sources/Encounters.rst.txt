@@ -162,3 +162,9 @@ Live Merchandise
 https://pf2easy.com/advanced/?q=4082P,4912P&c=3&sp=1&dark=1
 
 
+Live Merchandise, of the Rarer Variety (moderate)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 1 elite `winter wolf`_
+
+.. _winter wolf: https://pf2easy.com/index.php?id=4060&name=winter_wolf&CP=elite
