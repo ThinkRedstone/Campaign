@@ -41,7 +41,7 @@ The Low Tier
 ~~~~~~~~~~~~
 
 The Low Tier is the lowest and the biggest terrace, divided into three quarters. It is also home to the main market,
-the Iron Market, named so for the larget volume of metals it offers.
+the **Iron Market**, named so for the larget volume of metals traded therein.
 
 Bookie Lookie
 ~~~~~~~~~~~~~
@@ -62,3 +62,39 @@ These are things the city might hire adventurers to do.
 
 - Clear old mining shafts from dangerous minotour clans
 - Guard shipping caravens on their subterranean journey through the Negrogh range to other dwarven cities
+
+History
+-------
+
+
+BCA
+~~~
+
+Kinlodar was built before the Cruel Age, the High and Low tiers completed at around 300 BCA. The Negrogh mountain range has
+an ancient history of dwarven inhibition, but during the dawn of The Empire at around 1000 BCA, mining operation in the range
+shifted into high gear, when their dwarven occupants turned to weapon smithing to supply the ongoing conflict. However, mining
+efforts where limited by the ability to transfer the ore from the mining sites to the smelters, necessitating a more direct approach-
+Kinlodar was originally constructed to house all the smelting equipment as close as possible to the mines, hence its
+counter-intuitive location floating in the air on the side of a mountain. The Low tier was planned to house the smelters and storage,
+and the High tier as residence for miners- many of the High Tier building still stand today, which is why their clearly uniform in style
+and built for dwarves.
+
+Kinlodar was technically admitted into the Empire when the dwarven kingdom surrendered to The Empire, but this happened
+only a few weeks before the Dawn of the Cruel Age.
+
+*There can be a fun fact here, if someone says Kinlodar is the only Ever-free city, and the lore corrects him that this is false*
+
+Cruel Age
+~~~~~~~~~
+
+During the Cruel Age, Kinlodar ceased operations as smelting facility, as it flooded with refugees escaping into the Negrogh mountains
+in hopes that Abbadon's Army will not find them; and in general this proved true, with the Terraces of Kinlodar one of the few **Great
+Constructions** that still stand today. It is during this period that the former Dwarf-King **Hjolmar Lightguard**
+also fled to Kinlodar, and re-established his kingdom as a city-state. The modern Dwarf-King of Kinlodar can still trace his lineage to Hjolmar,
+and through him to the First Dwarf-King.
+
+PCA
+~~~
+
+After the Cruel Age, Kinlodar became one of the biggest cities in Cadel`Kra- the influx of refugees changed the demographic of the city dramatically, 
+and so led to the Low Tier being permanently re-purposed for more mixed-species residence. 

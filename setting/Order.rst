@@ -97,8 +97,8 @@ figure full of passion. Usually less sheltered then most people think.
 
 .. _Grotrur:
 
-Grotrur the Dwarven King
-~~~~~~~~~~~~~~~~~~~~~~~~
+Grotrur Lightguard, the Dwarf-King
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Appearance: Full plate, with an iron crown welded into the helmet. dwarf with red hair and an impressive beard.
