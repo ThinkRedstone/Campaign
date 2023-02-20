@@ -63,6 +63,28 @@ These are things the city might hire adventurers to do.
 - Clear old mining shafts from dangerous minotour clans
 - Guard shipping caravens on their subterranean journey through the Negrogh range to other dwarven cities
 
+People of Note
+--------------
+
+The Order
+~~~~~~~~~
+
+:ref:`Grotrur` is king of this city, and so he spends most of his time in it. 
+
+**Nikur Wildkind** - Male Gnome. Personal assistant to Greatsword Grotrur, he
+helps with things like writing protocols and scribing.
+
+**Hella Singlefield** - Female Gnome. Secretary to the king, not technically a
+member in The Order. She is very apathic, totally done with her job and her life.
+
+The Brotherhood of Chains
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Lorenzo of the Goldenchain Tree** - Male Elf. He wears thin, close-fitting
+dark blue robes. He embues confidence and take little care to not show his
+wealth. He also speaks which a strange rhythm. He is a leader in The Brotherhood of the city.
+Under his shirt, there are faint silvery tattoos of silver chains.
+
 History
 -------
 

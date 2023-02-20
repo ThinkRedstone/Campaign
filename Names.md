@@ -26,9 +26,7 @@
 - Aymer Eilcan
 
 ## Gnome
-- Nikur Wildkind
 - Wella Stoutligt (f)
-- Hella Singlefield (f)
 - Callen Deepriver
 
 ## Demon
