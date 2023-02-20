@@ -38,6 +38,7 @@ Maybe: He is a "little brother" figure to Naru, which views him in a gentler
 light compared to the other gods.
 
 Symbol: A crescent turned on its side to look like the setting sun.
+Colors: Gold and Blue
 
 ## Sraqtat
 
