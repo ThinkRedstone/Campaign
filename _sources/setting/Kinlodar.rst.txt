@@ -66,6 +66,8 @@ These are things the city might hire adventurers to do.
 People of Note
 --------------
 
+- **Lumrock Emberbow**, Dwarf Male - Head of Priest of :ref:`Aton-Ka`
+
 The Order
 ~~~~~~~~~
 
