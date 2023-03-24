@@ -12,7 +12,6 @@
 - Talo Vev (f)
 
 ## Dwarven
-- Lumrock Emberbow
 - Yomnur Merryhood
 - Yardin Grayborn
 - Dhuwini Thunderfeet (f)
