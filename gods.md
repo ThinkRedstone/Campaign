@@ -18,9 +18,12 @@ The god of Hope and Redemption. A fallen archangel risen again.
 Used to be Gaedon, the god of Mercy. 
 Fallen and turned into the god of cruelty,
 risen again as the god of Hope and Redemption.
-Symbol: three horns and a halo.
 
-Appearance : a tall figure, with three blood red horns, black feathered wings, and a glowing halo.
+*Symbol*: three horns and a halo.
+
+*Colors*: Red and black.
+
+*Appearance*: a tall figure, with three blood red horns, black feathered wings, and a glowing halo.
 
 ## Behemoth
 
@@ -37,27 +40,31 @@ of the setting sun.
 Maybe: He is a "little brother" figure to Naru, which views him in a gentler
 light compared to the other gods.
 
-Symbol: A crescent turned on its side to look like the setting sun.
-Colors: Gold and Blue
+*Symbol*: A crescent turned on its side to look like the setting sun.
+
+*Colors*: Blue and Gold
 
 ## Sraqtat
 
 The lawful good Spider God of Fate. He strings a web connecting all, and gently 
 tugs the strings to lead to favourable outcomes.
 
-Symbol: A golden spider web.
-Appearance: A normal sized golden spider.
+*Symbol*: A golden spider web.
+
+*Appearance*: A normal sized golden spider.
 
 ## Isoi
 The goddess of coin, and those who worship it. Patron
 of the merchants who rob you by day, and the 
 thieves who steal from you by night.
 
-Symbol: A coin with the imprint of a smiling maiden.
-
-True Blade: A dagger with a silver blade and a golden handle, with a golden
+*True Blade*: A dagger with a silver blade and a golden handle, with a golden
 coin imprinted on the base of the blade. Currently in possession of Naru, after
 Th'el and his gang stole it from Isoi's church and sold it. 
+
+*Symbol*: A coin with the imprint of a smiling maiden.
+
+*Colors*: Purple and Gold
 
 ## Naru
 
@@ -68,9 +75,11 @@ they will cause the world to suffer.
 
 "The Light that Blinds Justice"
 
-Alignment: Lawful Good
-Theme: https://youtu.be/qXVmZuPOzU0
-Symbol: Swords arranged in a circle to form a sun.
+*Theme*: https://youtu.be/qXVmZuPOzU0
+
+*Symbol*: Swords arranged in a circle to form a sun.
+
+*Colors*: White and Black
 
 ## Edon
 
@@ -80,14 +89,19 @@ aggression, he will do it by the sword if he has to.
 He is also called the *God of Chains*, referencing the metaphorical chains that bind
 mortal societies.
 
-True Blade: Shortsword, whereabouts undecided, potentially in the hands of his
+*True Blade*: Shortsword, whereabouts undecided, potentially in the hands of his
 champion.
-Appearance: A human of average height, with wide shoulders, short black hair,
+
+*Appearance*: A human of average height, with wide shoulders, short black hair,
 and brown eyes. He looks to be in his late 20s. His chest and arms are covered
 with silver burn scars- he got them restraining Abbadon while casting the ritual
 to banish him to Avernus.
 
 [Theme](https://youtu.be/mPTCq3LiZSE)
+
+*Symbol*: A shield, with two chains forming an X on it
+
+*Colors*: TBD
 
 ### Edon Powers
 Edon has a spectral chain going from him to each of his close followers, one for each.
