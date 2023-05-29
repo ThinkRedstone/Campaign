@@ -5,8 +5,9 @@ This city serves as the base of operations for The Order, and is ruled by a Grea
 :ref:`Grotrur the Dwarven King`. Most administrative, recruitment, and manufacturing for
 the order happens in this city.
 
-Strcture
---------
+
+Structure
+---------
 
 The city is located on the edge of the **Negrogh Mountains**, where they meet The Ocean. 
 It is composed of three giant terraces, fanning out from the side of the mountain and over
@@ -43,8 +44,21 @@ The Low Tier
 The Low Tier is the lowest and the biggest terrace, divided into three quarters. It is also home to the main market,
 the **Iron Market**, named so for the larget volume of metals traded therein.
 
-Bookie Lookie
-~~~~~~~~~~~~~
+Places of Note
+--------------
+
+The Iron Market
+~~~~~~~~~~~~~~~
+
+The central market and economic heart of Kinlodar. It is placed in the center of the Low Tier, bordering the `Hanging Docks`
+on the south-west (towards the middle of the edge of Kinlodar). Originally, this was where the first refineries were built
+when Kinlodar was founded, which is were the market draws its name from; Popular opinion however attributes the name to
+the large quantity of metal and metal products traded therein- many saying that over half the world's metal has been traded in
+this market.
+
+
+Eye of the Beholder
+~~~~~~~~~~~~~~~~~~~
 
 A book and magical supplies shop, manned by a sentient set of (very jolly) `Clone Mirrors`_.
 When you enter, a clone of yourself steps out of one of the many mirrors and heads the shop. 
@@ -52,16 +66,41 @@ There is also a spindly half-elven assistant named **Gabrian Grevyre**, which th
 clone if there is no one else there. This is mostly his only job, to give the mirrors something to clone
 that has digits.
 
+**Location**: The Iron Market, Low Tier
+
 .. _Clone Mirrors: https://pf2easy.com/index.php?id=21855&name=clone_mirrors
+
+The Leaky Cauldron
+~~~~~~~~~~~~~~~~~~
+
+A medium inn and tavern, with a dwarven barkeep named **Belmor Strezzen**.
+He has deep understanding of drinks and their history. The owner of the place
+is a human lady by the name of **Sone Deshtik**, with faint elven heritage and a
+relaxed, homely air.
+
+**Location**: Low Tier, near western edge
+
+The Hanging Docks
+~~~~~~~~~~~~~~~~~
+
+Kinlodar's only port- much smaller than might be expected of a sea city this size, due to the technical complexity involved.
+The Docks hang from their mooring to the bottom of the Low Tier on chains that extend all the way down the surface of the Ocean,
+and cranes and elevators bring people and cargo to and fro.  
+
+**Location**: Low Tier, south-western edge (middle of the edge)
 
 Quest Board
 -----------
+
+The Questlord of Kinlodar, a dwarven female by the name of **Mardora Caedareck**, tracks request from the 
+Dwarf-King of Kinlodar as well as merchants or other people looking for hired help. She keeps a few boards
+through out Kinlodar updated.
 
 These are things the city might hire adventurers to do.
 **It will also offer a reward for anyone turning in smugglers of illegal Direwolf pelts or other products.**
 
 - Clear old mining shafts from dangerous minotour clans
-- Guard shipping caravens on their subterranean journey through the Negrogh range to other dwarven cities
+- Guard shipping caravens on their subterranean journey through the Negrogh range to :ref:`Dhumdor`
 
 People of Note
 --------------
