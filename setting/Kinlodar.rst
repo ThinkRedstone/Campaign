@@ -89,6 +89,17 @@ and cranes and elevators bring people and cargo to and fro.
 
 **Location**: Low Tier, south-western edge (middle of the edge)
 
+The Isoi Temple
+~~~~~~~~~~~~~~~
+
+A rectangular building with Cathedral look- great many spires and statues and purple-and-gold decoration.
+The front is always crowded with people looking to use the temple facilites. To the left of the 
+doorway, there is a big board which displays the fair market values of various commodities and stocks in golden
+letters. The board is updated as the temple gets requests to buy or sell, sometimes
+multiple times an hour.
+
+**Location**: Low Tier, bordering the Iron Market, towards the mountain (away from the edge)
+
 Quest Board
 -----------
 
