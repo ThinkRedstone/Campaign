@@ -13,6 +13,7 @@ Naru's Campaign Against The Gods
    setting/index
    adventure/index
    story/index
+   oneshots/index
    gods.md
    old_setting.md
    adventure.md
