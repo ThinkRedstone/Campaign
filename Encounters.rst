@@ -99,7 +99,7 @@ Level 3 (Party of 4)
 --------------------
 
 Wolf Demons Attacking a Child (severe)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Two Barghest, attacking :ref:`Cheka`
 
@@ -168,3 +168,31 @@ Live Merchandise, of the Rarer Variety (moderate)
 - 1 elite `winter wolf`_
 
 .. _winter wolf: https://pf2easy.com/index.php?id=4060&name=winter_wolf&CP=elite
+
+1st Combat Encounter at the Arena (moderate)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`3 Burning Rats <https://pf2easy.com/advanced/?q=3719,3719,3719&c=3&sp=0&dark=1>`_
+
+
+2nd Combat Encounter (moderate)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`2 Undead Harpies <https://pf2easy.com/advanced/?q=15854W,15854&c=3&sp=0&dark=1>`_
+
+3rd Combat Encounter (moderate)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`5 Weak Trollhounds <https://pf2easy.com/advanced/?q=10454,10454,10454,10454,10454&c=3&sp=0&dark=1>`_
+
+4th Combat Encounter (severe)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`1 Greater Barghest <https://pf2easy.com/advanced/?q=3524&c=3&sp=0&dark=1#!>`_
+
+
+Lorenzo Reskin (severe)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+`Manticore Paaridar <https://2e.aonprd.com/Monsters.aspx?ID=1259>`_
+
