@@ -1,0 +1,36 @@
+
+Chapter 3.1: Misadventures in Kinlodar
+======================================
+
+
+General Info
+------------
+
+Plot Threads
+------------
+
+- Aton-Ka's death, his priests and Th'el
+- Holt's Quest from Behemoth to stop the wolf trade of the Brotherhood
+- The Hands of Fate trying to recruit Toz
+- The Festival to commemorate Aton'Ka, starting this Wednesday
+
+
+Treasure & State
+----------------
+
+Toz withdrew 30gp
+
+
+Evening of Monday, 0 
+---------------------
+
+**Vesstan of The Sylen Tree** is an underworld fixer at the :ref:`The Sweltering Revel`.
+He has a cigar, a large scar and an eyepatch on his right eye, and a
+classic italian mobster attitude.
+
+He will connect the party with **Alilynn Yesra**, a female half-elf from
+**Unnan**, previously a member of the **Whispering Hand**, Th'el's gang.
+She also has a tatto on her right hand. She found work with **The Barrel**, 
+a smuggler working to smuggle direwolf parts and whole direwolves disguised
+in a shipment of beer. He stopped in Unnan and hired more muscle to help
+in the last leg of his operations in Kinlodar.

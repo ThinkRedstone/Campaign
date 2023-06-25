@@ -3,7 +3,20 @@ Kinlodar
 
 This city serves as the base of operations for The Order, and is ruled by a Greatsword- 
 :ref:`Grotrur the Dwarven King`. Most administrative, recruitment, and manufacturing for
-the order happens in this city.
+the order happens in this city. 
+
+City Stuff
+----------
+
+City Symbol: The Deep Chasm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Circle with a spiral fading towards the middle of the circle, representing a very deep chasm.
+
+City Guard: The Brother's Watch
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Composed almost completely of dwarves. Uniformed in brown.
 
 
 Structure
@@ -19,8 +32,8 @@ Despite the proximity to The Ocean, the city conducts very little trade via seaf
 Low Tier about 200m above sealevel, making the transport of goods to sea difficult, as well
 as the maintenance of any sizeable port.
 
-The High Tier
-~~~~~~~~~~~~~
+The High Tier Structure
+~~~~~~~~~~~~~~~~~~~~~~~
 
 The High Tier, which is the smallest, is the administrative center of the city- The Palace, 
 :ref:`Outrok's <Outrok the Lich>` workshop (de facto central administration for The Order), 
@@ -30,22 +43,25 @@ mingle with the mostly-dwarven natives.
 
 Architecture is mostly white stone with red tiled roofs, and is mostly for dwarves despite the demographic.
 
-The Middle Tier
-~~~~~~~~~~~~~~~
+
+The Middle Tier Structure
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The Middle Tier is mostly residential, serving mainly as residence for people working in the High Tier
 who don't wish to commute from the Low Tier. It houses high-to-mid income families, but most commercial 
 activity is relegated to the Low Tier, with the exception being inns, which flourish due to the influx
 of visitors to the city seeking buisness in the High Tier.
 
-The Low Tier
-~~~~~~~~~~~~
+
+The Low Tier Structure
+~~~~~~~~~~~~~~~~~~~~~~
 
 The Low Tier is the lowest and the biggest terrace, divided into three quarters. It is also home to the main market,
 the **Iron Market**, named so for the larget volume of metals traded therein.
 
-Places of Note
---------------
+
+The Low Tier
+------------
 
 The Iron Market
 ~~~~~~~~~~~~~~~
@@ -60,11 +76,14 @@ this market.
 Eye of the Beholder
 ~~~~~~~~~~~~~~~~~~~
 
-A book and magical supplies shop, manned by a sentient set of (very jolly) `Clone Mirrors`_.
+A book and magical supplies shop, manned by a sentient set of (very jolly) `Clone Mirrors`_ named **M**.
 When you enter, a clone of yourself steps out of one of the many mirrors and heads the shop. 
 There is also a spindly half-elven assistant named **Gabrian Grevyre**, which the mirrors sometimes
 clone if there is no one else there. This is mostly his only job, to give the mirrors something to clone
 that has digits.
+
+There are 5 mirrors, however one of them is lost at city, on the bottom of The Ocean, leaving four
+in the shop.
 
 **Location**: The Iron Market, Low Tier
 
@@ -79,6 +98,19 @@ is a human lady by the name of **Sone Deshtik**, with faint elven heritage and a
 relaxed, homely air.
 
 **Location**: Low Tier, near western edge
+
+Bountyful Wilds
+~~~~~~~~~~~~~~~
+
+A herbs, oinments and illicit drugs shop. Run by a dwarf named **Urmron Grollavon**, which talks with a
+weird tick and has a liking to children's dexterity toys.
+
+**Location**: Low Tier, outskirts of the Iron Market
+
+The Sweltering Revel
+~~~~~~~~~~~~~~~~~~~~
+
+A pub serving as Kinlodar's natural ground for underworld business. Owned by **San Sikreg**, a human male.
 
 The Hanging Docks
 ~~~~~~~~~~~~~~~~~
@@ -100,6 +132,21 @@ multiple times an hour.
 
 **Location**: Low Tier, bordering the Iron Market, towards the mountain (away from the edge)
 
+The High Tier
+-------------
+
+Aton-Ka Temple
+~~~~~~~~~~~~~~
+
+The oldest temple in Kinlodar, it was built during the Cruel Age, and honors Aton-Ka as a dwarf- his form
+at the time- and not his later elven form. 
+
+The Palace 
+~~~~~~~~~~~
+
+todo
+
+
 Quest Board
 -----------
 
@@ -110,13 +157,18 @@ through out Kinlodar updated.
 These are things the city might hire adventurers to do.
 **It will also offer a reward for anyone turning in smugglers of illegal Direwolf pelts or other products.**
 
-- Clear old mining shafts from dangerous minotour clans
-- Guard shipping caravens on their subterranean journey through the Negrogh range to :ref:`Dhumdor`
+- Clear old mining shafts from dangerous minotour clans - 200GP
+- Guard shipping caravens on their subterranean journey through the Negrogh range to :ref:`Dhumdor` - 20 GP / week
 
 People of Note
 --------------
 
 - **Lumrock Emberbow**, Dwarf Male - Head of Priest of :ref:`Aton-Ka`
+- **Yardin Grayborn**, Dwarf Male - Priest of Aton-Ka. Very buff. Previously member of the Stonemender's Guard, the Dwarf-king's
+  bodyguards.
+- **Bharmore Noblechest**, Dwarf Female - Magician in the High Tier, could use an ink book
+- **Aymer Eilcan**,  Elf Male - Magician, same as above
+- **Vesstan of The Sylen Tree**, Elf Male - Roleplays as an underworld fixer in Kinlodar because he is bored. His scar is fake.
 
 The Order
 ~~~~~~~~~
