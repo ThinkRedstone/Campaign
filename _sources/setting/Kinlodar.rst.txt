@@ -146,6 +146,13 @@ The Palace
 
 todo
 
+Bharmore Noblechest
+~~~~~~~~~~~~~~~~~~~
+
+A female dwarf with unkempt brown hair and a motherly attitude but an adventurous streak. Member of :ref:`The Pathfinder Society`.
+Her house is full of unorganized expirements left untouched for months at a time, rolled up maps, books,
+and currently- one extra-large cradle filled with dirt, housing a budding `Giant Flytrap <https://2e.aonprd.com/Monsters.aspx?ID=209>`_.
+She has been to **Unnan** and has seen their tattoos, and despite her inexperience, is willing to try.
 
 Quest Board
 -----------
