@@ -154,6 +154,17 @@ Her house is full of unorganized expirements left untouched for months at a time
 and currently- one extra-large cradle filled with dirt, housing a budding `Giant Flytrap <https://2e.aonprd.com/Monsters.aspx?ID=209>`_.
 She has been to **Unnan** and has seen their tattoos, and despite her inexperience, is willing to try.
 
+Aymer Eilcan
+~~~~~~~~~~~~
+
+A skeleton wizard specializing in Astronomy and Conjuration. He lived in a tower observatory on 
+the very edge of the High Tier. He worked with :ref:`Adnelis of the Rowan Tree`, a divination mage, 
+in order to very closely observe a star using ritual magic- the plane behind the star was consumed by the Undying Flame,
+which spread to him, consuming him completely and spreading further to Adnelis's right eye.
+
+After this incident, The Order took his burning body, Adnelis, and the whole second floor where the ritual took place.
+
+
 Quest Board
 -----------
 
@@ -174,7 +185,7 @@ People of Note
 - **Yardin Grayborn**, Dwarf Male - Priest of Aton-Ka. Very buff. Previously member of the Stonemender's Guard, the Dwarf-king's
   bodyguards.
 - **Bharmore Noblechest**, Dwarf Female - Magician in the High Tier, could use an ink book
-- **Aymer Eilcan**,  Elf Male - Magician, same as above
+- **Aymer Eilcan**,  Skeleton Male - Magician, same as above
 - **Vesstan of The Sylen Tree**, Elf Male - Roleplays as an underworld fixer in Kinlodar because he is bored. His scar is fake.
 
 The Order
