@@ -196,3 +196,13 @@ Lorenzo Reskin (severe)
 
 `Manticore Paaridar <https://2e.aonprd.com/Monsters.aspx?ID=1259>`_
 
+.. _Barrel Ambush:
+
+Ambush By the Barrel (severe)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 1 `Dragon Sorcerer <https://pathbuilder2e.com/launch.html?build=477120>`_
+- 2 `Bounty Hunters <https://2e.aonprd.com/NPCs.aspx?ID=923>`_
+
+Alternative to Sorcerer- `Wizard <https://2e.aonprd.com/NPCs.aspx?ID=922&Elite=true>`_
+

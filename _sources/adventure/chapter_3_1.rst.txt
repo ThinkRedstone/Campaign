@@ -20,8 +20,10 @@ Treasure & State
 
 Toz withdrew 30gp
 
-The price for a magical tatto capable of casting a 1st level illusion spell
+The price for a magical tattoo capable of casting a 1st level illusion spell
 is that of a 5th level item- 145gp.
+
+Remaining treasure for level: 820gp
 
 
 Evening of Monday, 0 
@@ -33,7 +35,7 @@ classic italian mobster attitude.
 
 He will connect the party with **Alilynn Yesra**, a female half-elf from
 **Unnan**, previously a member of the **Whispering Hand**, Th'el's gang.
-She also has a tatto on her right hand. She found work with **The Barrel**, 
+She also has a tattoo on her right hand. She found work with **The Barrel**, 
 a smuggler working to smuggle direwolf parts and whole direwolves disguised
 in a shipment of beer. He stopped in Unnan and hired more muscle to help
 in the last leg of his operations in Kinlodar.
@@ -50,3 +52,21 @@ Tuesday, 1
 ----------
 
 **Lorenzo** will set someone to follow the party (Perception DC19).
+
+----
+
+.. note::
+   Ask Toz how much health he restored to Aurea
+
+The party talked with :ref:`Bhamore Noblechest`, who gave them a 100gp offer for the tattoo 
+after the festival (*Saturday, 4*). She also informed them :ref:`Aymer Eilcan` is not in town.
+
+
+They noticed and subdued The Barrel's agent who tailed them, a human fellow named **Aurea Vincula**
+from **Stonevale**. He was employed by The Barrel back at Stonevale and can lead the party back
+to were he was told to report, or other locations used by The Barrel.
+
+Lorenzo is not stupid, and considered that his tail might be noticed- which is why he setup an ambush
+where he told his tail to report. See :ref:`Barrel Ambush`. 
+
+The ambush will collectively have 32cp, 53sp, 63gp, 1 pair of `Goggles of Night <https://pf2easy.com/index.php?id=2879&name=goggles_of_night>`_.
