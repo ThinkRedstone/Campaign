@@ -69,4 +69,13 @@ to were he was told to report, or other locations used by The Barrel.
 Lorenzo is not stupid, and considered that his tail might be noticed- which is why he setup an ambush
 where he told his tail to report. See :ref:`Barrel Ambush`. 
 
-The ambush will collectively have 32cp, 53sp, 63gp, 1 pair of `Goggles of Night <https://pf2easy.com/index.php?id=2879&name=goggles_of_night>`_.
+The ambush will collectively have:
+
+- 32cp 53sp 63gp
+- 1 pair of `Goggles of Night <https://pf2easy.com/index.php?id=2879&name=goggles_of_night>`_
+- 3 bottles of `Potion of Invisability <https://pf2easy.com/index.php?id=2673&name=invisibility_potion>`_
+
+----
+
+The Party have engaged the :ref:`Barrel Ambush`, which they have forced to flee over the rooftops. The ambush might decide
+to engage in melee, or flee (perhaps using their invisibility potions) to their warehouse for reinforcements.
