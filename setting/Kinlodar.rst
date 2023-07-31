@@ -141,8 +141,8 @@ Aton-Ka Temple
 The oldest temple in Kinlodar, it was built during the Cruel Age, and honors Aton-Ka as a dwarf- his form
 at the time- and not his later elven form. 
 
-The Palace 
-~~~~~~~~~~~
+The Citadel 
+~~~~~~~~~~~~
 
 todo
 
