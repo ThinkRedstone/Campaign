@@ -47,6 +47,7 @@ meet them again at *Evening of Tuesday, 1*. Th'el snuck up on **Lorenzo**,
 arising the latter's suspicion, compounding with Lorenzo's knowledge of Th'els
 mysterious interactions with the Order of Blades. Th'el also wanted to
 talk with :ref:`Bharmore Noblechest` or :ref:`Aymer Eilcan` regarding magical tattos.
+Th'el also sent a letter to Aton-Ka's church.
 
 Tuesday, 1
 ----------
@@ -79,3 +80,6 @@ The ambush will collectively have:
 
 The Party have engaged the :ref:`Barrel Ambush`, which they have forced to flee over the rooftops. The ambush might decide
 to engage in melee, or flee (perhaps using their invisibility potions) to their warehouse for reinforcements.
+
+**Lumrock Emberbow**, head priest of Aton-Ka, has been notified by Grotrur about the death of Aton-Ka,
+and will urgently try to contact Th'el- he will send **Yardin Grayborn** to wait for him in the :ref:`The Leaky Cauldron`.
