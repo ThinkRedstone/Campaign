@@ -147,6 +147,7 @@ Ains and Co (Team Rocket)
 Level 4 (Party of 5)
 --------------------
 
+.. _simple guards: 
 
 Guards or Memebers of the Brotherhood (moderate)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

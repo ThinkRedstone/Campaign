@@ -83,3 +83,27 @@ to engage in melee, or flee (perhaps using their invisibility potions) to their 
 
 **Lumrock Emberbow**, head priest of Aton-Ka, has been notified by Grotrur about the death of Aton-Ka,
 and will urgently try to contact Th'el- he will send **Yardin Grayborn** to wait for him in the :ref:`The Leaky Cauldron`.
+
+----
+
+.. note::
+   Time of Day: Night
+
+   Roll Healing for :ref:`Barrel Ambush`
+
+| Holt tracked the :ref:`Barrel Ambush` back to the Barrel's Warehouse.
+| The Party Talked with **Vesstan** and **Alilynn Yesra** and decided to
+  reconvene in the :ref:`The Sweltering Revel` at (*Saturday, 4*).
+| They then headed to the Barrel's Warehouse.
+
+Inside The Barrel's Warehouse, there will be seven people:
+
+- The three from :ref:`Barrel Ambush`
+- `Aurea Vincula <https://pf2easy.com/index.php?id=5653&name=burglar>`_
+- 3 Hired Guards from :ref:`simple guards`
+
+The Ambush is composed of three people:
+
+- Female Elf Bounty Hunter: **Valrana of the Willow Tree**, which is from Shynore and talks with an accent
+- Human Male Sorcerer with Red Dragon Eyes: **Nardid Celad**
+- Half-Orc Bounty Hunter: **Wurtguth**
