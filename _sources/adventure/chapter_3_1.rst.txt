@@ -113,4 +113,12 @@ The Ambush is composed of three people:
 The party tried to engage the whole warehouse, and were forced to flee. They've met with **Yardin**, 
 who's still waiting for Th'el in :ref:`The Leaky Cauldron`, and will regroup in Aton-Ka's temple.
 
-**Lumrock Emberbow** will be distressed, and will question Th'el regarding how Aton-Ka died.
+**Lumrock Emberbow** will be distressed, and will gravely question Th'el regarding how Aton-Ka died.
+He might reveal that Naru told him Aton-Ka died, and gave him a note from Aton-Ka:
+
+.. note::
+
+  There are statues of my family in the Imperial Gardern.
+  Please do me the favour of joining theirs to mine; Cassandra would've like
+  to watch over this world together.
+
