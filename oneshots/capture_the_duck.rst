@@ -27,4 +27,5 @@ Encounter 1
 Encounter 2
 ~~~~~~~~~~~
 
-TODO
+- `Edon <https://pathbuilder2e.com/launch.html?build=543722>`_
+- `Dew Self-light <https://pathbuilder2e.com/launch.html?build=543723>`_
