@@ -8,10 +8,10 @@ the order happens in this city.
 City Stuff
 ----------
 
-City Symbol: The Deep Chasm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+City Symbol: The Spiral Chasm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Circle with a spiral fading towards the middle of the circle, representing a very deep chasm.
+Circle with a spiral fading towards the middle of the circle, representing the deep chasm Kinlodar is built besides.
 
 City Guard: The Brother's Watch
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -22,11 +22,11 @@ Composed almost completely of dwarves. Uniformed in brown.
 Structure
 ---------
 
-The city is located on the edge of the **Negrogh Mountains**, where they meet The Ocean. 
+The city is located on the edge of the **Negrogh Mountains**, where they meet The Ocean.
 It is composed of three giant terraces, fanning out from the side of the mountain and over
 The Ocean, forming three tiers connected via staircases and elevators. The city is accessable
 mostly via tunnels through the mountains, leading to highland hunting grounds, mountain rivers,
-and other dwarven cities. 
+and other dwarven cities.
 
 Despite the proximity to The Ocean, the city conducts very little trade via seafairing- even the
 Low Tier about 200m above sealevel, making the transport of goods to sea difficult, as well
