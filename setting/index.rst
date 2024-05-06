@@ -9,8 +9,10 @@ what once was the lands of the world's biggest empire. City states squabble over
 peace, but in the south-west there are rumors of bigger conflicts brewing.
 
 .. toctree::
-  Order
+  Unnan
   Nelghas
   Acorghas
   Kinlodar
+  Order
+  Trees
   others
