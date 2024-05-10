@@ -100,3 +100,28 @@ the world is perilous and unfair, and so the dangers of the Manchineel Tree outm
 An Elf of the Manchineel Tree knows that safety is only assured by means of fatal deterrence, and will seek
 to have one.
 
+
+Oak
+~~~
+
+To be strong and unyielding; to not bend. The Oak Tree grows slow; it germinates slowly, and grows only
+little every summer. But its wood is the strongest out of all the Trees, and the great Oaks stand tall among 
+the most powerful storms.
+The Oak Tree teaches us that strength comes from conviction, not from chasing goals.
+
+An Elf of the Oak Tree will stay true to his beliefs, whatever they may be, and will never bend them.
+Many follow Arca, though many do not.
+
+Aspen
+~~~~~
+
+To adapt; to be flexible. The Aspen Tree grows more then one trunk from its
+roots- a cluster of Aspens is often just a single tree; sometimes a whole forest
+of Aspen is a single living being.
+The Aspen Tree teaches us that there are many places and ways to thrive, that no
+singular answer is the only correct one.
+
+An Elf of the Aspen Tree will be flexible, recognizing the magnitude of ways one
+can think and live and still grow.
+
+

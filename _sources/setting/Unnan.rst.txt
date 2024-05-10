@@ -44,3 +44,10 @@ The Archmage's Guild
 
 Has a solitary member- Archmage **Spark**, a goblin and one of the strongest
 mages in the world.
+
+The Guild of Treesmiths
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Guild of woodworkers and elven tree-smiths.
+
+Headed by **Elanil of the Oak Tree**
