@@ -12,6 +12,8 @@ Current form: Dying old elf
 
 True Blade: An unornate hatchet.
 
+Colors: Green and Silver
+
 ## Abbadon
 
 The god of Hope and Redemption. A fallen archangel risen again.
@@ -21,7 +23,7 @@ risen again as the god of Hope and Redemption.
 
 *Symbol*: three horns and a halo.
 
-*Colors*: Red and black.
+Colors: Red and Gold
 
 *Appearance*: a tall figure, with three blood red horns, black feathered wings, and a glowing halo.
 
@@ -31,7 +33,11 @@ The chaotic evil god of nature. All about nature defeating man and overthrowing
 civilization. Cities will be overgrown, ships lost in storms, fields ravaged
 by pests, livestock hunted.
 
+Symbol: a canine skull
+
 True Blade: Two Handed Orcish Waraxe nicknamed Bertha.
+
+Colors: Green and Black
 
 ## Obelisk
 
@@ -42,7 +48,7 @@ light compared to the other gods.
 
 *Symbol*: A crescent turned on its side to look like the setting sun.
 
-*Colors*: Blue and Gold
+Colors: Blue and Silver
 
 ## Sraqtat
 
@@ -52,6 +58,8 @@ tugs the strings to lead to favourable outcomes.
 *Symbol*: A golden spider web.
 
 *Appearance*: A normal sized golden spider.
+
+Colors: White and Gold
 
 ## Isoi
 The goddess of coin, and those who worship it. Patron
@@ -101,7 +109,7 @@ to banish him to Avernus.
 
 *Symbol*: A shield, with two chains forming an X on it
 
-*Colors*: TBD
+Colors: Grey and Gold
 
 ### Edon Powers
 Edon has a spectral chain going from him to each of his close followers, one for each.
@@ -143,3 +151,10 @@ believe at any cost and bow to nothing. Her believers founded The Arena of
 Perseverance, in which you win only by your opponent surrendering- you do not
 win even by his death. The Champion of this Arena traditionally hold her True
 Blade, a Glaive named _The Unyielding Blade?_.
+
+True Blade: Glaive, in the hands of the current champion, usually in Melta
+
+Colors: Red and Silver
+
+Symbol: A determined face of indeterminate gender. The left half is covered in a
+flame.
