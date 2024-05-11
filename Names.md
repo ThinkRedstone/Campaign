@@ -1,8 +1,5 @@
 # Names
 
-- Leres Steelsky: Hunter with Quill
-- Larha Clanfall: Hunter with Quill
-
 ## Human
 - Tudrem Tuskscar
 - Zoey Mao
@@ -10,12 +7,12 @@
 - Tan Sagebash
 - Pan Bevusk
 - Talo Vev (f)
+- Nanu Budrarsk (f)
 
 ## Dwarven
 - Yomnur Merryhood
 - Yardin Grayborn
 - Dhuwini Thunderfeet (f)
-- Bharmore Noblechest (f)
 
 ## Elven
 - Vesstan Elrel
