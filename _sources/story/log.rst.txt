@@ -1,0 +1,31 @@
+Adventure Log
+=============
+
+
+Treasure & State
+----------------
+
+Remaining Treasure: 500 GP
+
+Possible Treasure:
+~~~~~~~~~~~~~~~~~~
+
+- `infiltrator’s elixir`_
+- `spyglass`_
+- `Cloak of Repute`_
+
+
+.. _infiltrator’s elixir: https://pf2easy.com/index.php?id=2579&name=infiltrator’s_elixir
+.. _spyglass: https://pf2easy.com/index.php?id=3072&name=spyglass
+.. _Cloak of Repute: https://pf2easy.com/index.php?id=4512&name=cloak_of_repute
+
+Day 1, Sunday
+-------------
+
+Today is the test day in the Wizard's Guild, meaning all the apprentices are
+either showing of their work in the Guildhall, or celebrating / drowning their
+sorrows in Wendy's or other similar establishments.
+
+**Spark** will summon the party seemingly at random, and ask them to run an
+"errand" for him- to discreetly deliver a magical "thing" to the room of an apprentice wizard by the
+name of **Bemar Zehe**.
