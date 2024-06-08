@@ -29,3 +29,8 @@ A Living Guard Chest (Severe)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `Mimic Chest <https://pf2easy.com/index.php?id=3882&name=mimic&CP=elite>`_
+
+Assassination Squad (Extreme without help)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 2 `Bounty Hunters <https://2e.aonprd.com/NPCs.aspx?ID=923>`_
