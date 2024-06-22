@@ -87,3 +87,17 @@ via his two Capos:
 1. The Deputy (Real name: **Nadinal South**) - A red tiefling with black eyes. Soft spoken and threatening.
 2. The Administrator
 
+
+Locations
+---------
+
+The Guild's Square
+~~~~~~~~~~~~~~~~~~
+
+A large square surrounded by all the guild halls, one edge ends at the river. Often the smaller unions also
+have buildings there.
+
+To cross the river from the square, there's the **Living Bridge**, created and maintained by
+the Guild of Tree Smiths- two living Goldenchain trees have been planted on each edge of the river,
+their branches entwined over the waters to create a bridge.
+
