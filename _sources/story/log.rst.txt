@@ -44,11 +44,26 @@ arguing with **Thunder**, where he agreed to:
 
 ----
 
+Day 2, Monday
+-------------
+
 Spark will use `Disintegrate`_ at level 7, modifier +30 to kill Gecko,
-and send Luisa at midnight to talk with **The Deputy** of the whispering hand,
+and send Luisa at midnight to talk with **The Deputy** of the Mafia,
 at his court on the western side of the Bay ward.
 
 He will concede to Aira that he has no idea where :ref:`Sraqtat` is, but 
 if pressed he might know someone with better knowledge (alluding to :ref:`Obelisk`).
 
 .. _Disintegrate: https://pf2easy.com/index.php?id=1290&name=disintegrate
+
+----
+
+The party talked with **Tudrem Tuskscar**, a priest of :ref:`Etia`, inadvertently giving
+him knowledge of Gecko, which he rewarded with knowledge about the guilds, a book about
+the history of Sraqtat in about the last 1,000 years, and a book about Dargons and Dargonborn.
+
+----
+
+After the Spark meeting planned for last session, they will probably go to meet with **The Deputy**,
+where they will give the Whispering Hand assasins an opportunity to try and kill **The Deputy**.
+He will run away, calling out to Luisa and telling her to prove herself against them.
