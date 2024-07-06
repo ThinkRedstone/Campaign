@@ -34,3 +34,8 @@ Assassination Squad (Extreme without help)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - 2 `Bounty Hunters <https://2e.aonprd.com/NPCs.aspx?ID=923>`_
+
+Mafia Squad (Severe)
+~~~~~~~~~~~~~~~~~~~~
+
+- 3 `Ruffians <https://pf2easy.com/index.php?id=5651&name=ruffian&year=2019>`_
