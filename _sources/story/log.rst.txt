@@ -13,11 +13,13 @@ Possible Treasure:
 - `infiltrator’s elixir`_
 - `spyglass`_
 - `Cloak of Repute`_
+- `Boots of Grace`_
 
 
 .. _infiltrator’s elixir: https://pf2easy.com/index.php?id=2579&name=infiltrator’s_elixir
 .. _spyglass: https://pf2easy.com/index.php?id=3072&name=spyglass
 .. _Cloak of Repute: https://pf2easy.com/index.php?id=4512&name=cloak_of_repute
+.. _Boots of Grace: https://pf2easy.com/index.php?id=2854&name=boots_of_elvenkind
 
 Day 1, Sunday
 -------------
@@ -51,7 +53,7 @@ Spark will use `Disintegrate`_ at level 7, modifier +30 to kill Gecko,
 and send Luisa at midnight to talk with **The Deputy** of the Mafia,
 at his court on the western side of the Bay ward.
 
-He will concede to Aira that he has no idea where :ref:`Sraqtat` is, but 
+He will concede to Aira that he has no idea where :ref:`Sraqtat` is, but
 if pressed he might know someone with better knowledge (alluding to :ref:`Obelisk`).
 
 .. _Disintegrate: https://pf2easy.com/index.php?id=1290&name=disintegrate
@@ -67,3 +69,25 @@ the history of Sraqtat in about the last 1,000 years, and a book about Dargons a
 After the Spark meeting planned for last session, they will probably go to meet with **The Deputy**,
 where they will give the Whispering Hand assasins an opportunity to try and kill **The Deputy**.
 He will run away, calling out to Luisa and telling her to prove herself against them.
+
+----
+
+After meeting with Spark, they got in their head that :ref:`Adnelis of the Rowan
+Tree` might be able to divine a way to kill Gecko. They then met with **The
+Deputy**, and assisted **The Whispering Hand**'s assassins in trying to kill
+him.
+
+----
+
+`Deputy Stats <https://monster.pf2.tools/v/Lr3ch9dF-the-deputy>`_
+
+If they're able to kill The Deputy, then the Mafia will take some time to
+recover and launch a counter-attack. Otherwise, the Mafia will set goons to
+assualt them.
+
+Earliest ship to Kinlodar is the GTC-commissioned **Maiden of The Wind**,
+captained by human **Nils West**, leaving for Inlenel on *Tuesday evening (Day 3)*,
+
+Next ship is **The Big One**, a smaller vessel, commissioned by **Ceto**, a
+wood giant and famed warrior in **The Arena of Perseverance**. Captained by
+elven **Ayen of the Coconut Tree**.

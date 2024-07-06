@@ -27,8 +27,9 @@ The Bakers' Guild
 Front for the Mafia, the crime organization dealing in violent
 crimes.
 
-Headed by Odra flametongue, a red skinned dragonborn with a russian accent.
-He's an actual baker and chef, but serves as a front.
+Headed by **Odra flametongue**, a red skinned dragonborn with a russian accent.
+He's an actual baker and chef, but serves as a front, mostly through **The
+Administrator**.
 
 The Seamstresses' Guild
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,7 +83,7 @@ The Mafia
 ~~~~~~~~~
 
 Headed by the Boss, which is a mysterious figure never seen face to face. He communicates
-via his two Capos: 
+via his two Capos:
 
 1. The Deputy (Real name: **Nadinal South**) - A red tiefling with black eyes. Soft spoken and threatening.
 2. The Administrator
@@ -101,3 +102,18 @@ To cross the river from the square, there's the **Living Bridge**, created and m
 the Guild of Tree Smiths- two living Goldenchain trees have been planted on each edge of the river,
 their branches entwined over the waters to create a bridge.
 
+The Gold Trading Port
+~~~~~~~~~~~~~~~~~~~~~
+
+The eastern port, the Gold Trading Company has invested heavily in it, securing
+them majority ownership. The piers are purpose-builtto support the larger
+vessels favoured by the Company. They generally prefer goods to people, but will
+take passengers to fill out the cargo hold.
+
+
+The Old Port
+~~~~~~~~~~~~
+
+The western port, most of this port is owned by by either The Guild of Travelers
+or The Guild of Treesmiths, with minority ownership by multiple companies and
+organizations, the most notable of which is :ref:`The Knights of Commerce`.
