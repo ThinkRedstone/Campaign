@@ -83,7 +83,7 @@ him.
 
 If they're able to kill The Deputy, then the Mafia will take some time to
 recover and launch a counter-attack. Otherwise, the Mafia will set goons to
-assualt them.
+assault them.
 
 Earliest ship to Kinlodar is the GTC-commissioned **Maiden of The Wind**,
 captained by human **Nils West**, leaving for Inlenel on *Tuesday evening (Day 3)*,
@@ -91,3 +91,17 @@ captained by human **Nils West**, leaving for Inlenel on *Tuesday evening (Day 3
 Next ship is **The Big One**, a smaller vessel, commissioned by **Ceto**, a
 wood giant and famed warrior in **The Arena of Perseverance**. Captained by
 elven **Ayen of the Coconut Tree**.
+
+----
+
+Day 3, Tuesday
+--------------
+
+They killed **The Deputy**, robbed his corpse and the direwolf pelts he
+was planning to ship to Kinlodar, and hired the **Maiden** to take them to Kinlodar.
+On their way to a book store maybe? The got assualted by Mafia goons.
+
+----
+
+Spark will catch them when next they enter a building. He will tell them Adnelis was working with
+a mage named :ref:`Aymer Eilcan`, and that he knows nothing further.
