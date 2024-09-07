@@ -105,3 +105,14 @@ On their way to a book store maybe? The got assualted by Mafia goons.
 
 Spark will catch them when next they enter a building. He will tell them Adnelis was working with
 a mage named :ref:`Aymer Eilcan`, and that he knows nothing further.
+
+----
+
+Luisa buried Aira in Unnan's Sraqtat Temple. They boarded the **Maiden of The Wind**, where
+**Spark** informed them that **Adnelis** was working with a mage named :ref:`Aymer Elican` in Kinlodar.
+
+----
+
+In Inlenel the ship will stop for the day to take on board more water and supplies, letting the party
+explore the small city. There they might meet **Kilyn of the Mimosa Tree**, another priest in the temple
+of Sraqtat.
