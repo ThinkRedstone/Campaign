@@ -5,7 +5,7 @@ Adventure Log
 Treasure & State
 ----------------
 
-Remaining Treasure: 500 GP
+Remaining Treasure: 100 GP
 
 Possible Treasure:
 ~~~~~~~~~~~~~~~~~~
@@ -116,3 +116,12 @@ Luisa buried Aira in Unnan's Sraqtat Temple. They boarded the **Maiden of The Wi
 In Inlenel the ship will stop for the day to take on board more water and supplies, letting the party
 explore the small city. There they might meet **Kilyn of the Mimosa Tree**, another priest in the temple
 of Sraqtat.
+
+----
+
+They fought a Giant Eel, and found a mimic. 
+
+----
+
+The mimic will contain `Boots of Grace`_, if they can recover it.
+
