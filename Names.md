@@ -13,13 +13,16 @@
 - Yomnur Merryhood
 - Yardin Grayborn
 - Dhuwini Thunderfeet (f)
+- Rassag Strongjaw
+- Krolona Whitestone
 
 ## Elven
-- Vesstan Elrel
-- Darfin Dorkrana
 - Alasse Balgwyn (f)
 - Ameria Roxidor (f)
-- Aymer Eilcan
+- Vamir
+- Nuela (f)
+- Venali (f)
+- Anfalen
 
 ## Gnome
 - Wella Stoutligt (f)

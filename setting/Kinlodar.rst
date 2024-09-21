@@ -164,6 +164,11 @@ which spread to him, consuming him completely and spreading further to Adnelis's
 
 After this incident, The Order took his burning body, Adnelis, and the whole second floor where the ritual took place.
 
+The Pathfinder's Lodge
+----------------------
+
+Headed by **Elikaen of the Junpier Tree**, near the western edge.
+
 
 Quest Board
 -----------
