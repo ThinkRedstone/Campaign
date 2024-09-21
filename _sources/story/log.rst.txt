@@ -125,3 +125,22 @@ They fought a Giant Eel, and found a mimic.
 
 The mimic will contain `Boots of Grace`_, if they can recover it.
 
+----
+
+Day 15, Wednesday
+-----------------
+
+`Boots of Grace`_ were successfully recovered, and they stopped in Inlenel for repairs leaving *Day 16* in the evening.
+In Inlenel, they drank lots in :ref:`The Oaken Barrel`, a brewery owned by **Darfin of the Oak Tree**.
+
+Krass met with Kilyn, and prayed to Sraqtat that the journey is interesting- netting a 22 total.
+
+----
+
+They will catch **Kilyn** talking to Captain Nils, asking if any letters arrived from Unnan-
+he will respond that he's not contracted to carry civilian letters, only cargo for the GTC
+and a few passengers, but **The Big One** was suppose to also anchor in Inlenel, and it might.
+
+Before they depart, **Arryn of the Manchineel Tree**, an elf of 50% human blood will board the 
+**Maiden of The Wind**. She wears comfortable but unassuming green robes, with a belted sword and a bow and arrow,
+but her eyes look like she's looking through you.
